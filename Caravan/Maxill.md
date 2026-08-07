@@ -13,8 +13,13 @@ Opposition:
 Family:
 Status: Exanimate
 First_Seen: 1413
-Tags:
-  - Calx
+tags:
+  - active
+  - calx
+  - caravan
+  - heritage/lazi
+  - status/exanimate
+  - type/pc
 ---
 The former [[Lazi]] [[Occultist]] emperor of [[Dvorakia]], and the great conqueror, who was slain by [[Sigurd]] in 1403.
 

@@ -1,5 +1,8 @@
 ---
 quartz-properties: false
+tags:
+  - rules
+  - rules/asphodia
 ---
 # Gail:
 ![[Gail]]

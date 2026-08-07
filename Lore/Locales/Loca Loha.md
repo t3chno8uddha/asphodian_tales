@@ -10,9 +10,12 @@ Populace:
   - "[[Fae]]"
 Status: Standing
 First_Seen:
-tags:
-  - Island
 marker: [{ coordinates: "3894, 3699", colour: "#685f58" }]
+tags:
+  - island
+  - region/outlying
+  - status/standing
+  - type/locale
 ---
 A small chain of islands governed over by [[Abara]].
 

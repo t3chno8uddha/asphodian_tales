@@ -1,9 +1,10 @@
 ---
 tags:
-  - Calx
-  - Necrophage
-  - Sickness
-  - Edicts
+  - calx
+  - edicts
+  - necrophage
+  - phenomenon
+  - sickness
 ---
 Exanimates are the undead, briefly speaking. They are passed souls possessing their own remnants. The two main kinds of Exanimates are Calxes - skeletal exanimates - and Necrophages - fleshed exanimates.
 

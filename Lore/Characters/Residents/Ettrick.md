@@ -12,6 +12,8 @@ Family:
 Status: Alive
 First_Seen:
 tags:
+  - status/alive
+  - type/npc
 ---
 A travelling merchant.
 

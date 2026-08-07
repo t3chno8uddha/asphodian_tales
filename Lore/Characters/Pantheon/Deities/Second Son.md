@@ -12,9 +12,12 @@ Family:
 Status: Alive
 First_Seen:
 tags:
-  - Abyssal
-  - Vampyr
-  - Wurdulac
+  - abyssal
+  - pantheon
+  - status/alive
+  - type/deity
+  - vampyr
+  - wurdulac
 ---
 The avatar of [[Temeran]]'s pain, often hailed as the first Abyssal.
 

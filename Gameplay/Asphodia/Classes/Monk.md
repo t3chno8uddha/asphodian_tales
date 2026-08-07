@@ -1,6 +1,10 @@
 ---
 quartz-properties: false
 unlisted: true
+tags:
+  - rules
+  - rules/asphodia
+  - rules/class
 ---
 - **Mantra** -{*A*}- Utter a centering chant; you and each ally who hears it gain +1♦ on an Act of their own choosing for a short while. Strain yourself to raise your boost to +2♦ for one Act, instead.
 - **Third Eye** -{*A*}- Read the alignment and intent of any creature you see; +1♦ to perceive the hidden and unspoken, and by touch you may glimpse a mind's thoughts and memories.

@@ -14,7 +14,10 @@ Family:
 Status: Dead
 First_Seen:
 tags:
-  - Gods
+  - gods
+  - pantheon
+  - status/dead
+  - type/god
 ---
 Goddess of **discipline** and **time**.
 

@@ -10,6 +10,10 @@ Family:
 Status: Alive
 First_Seen: 1441
 tags:
+  - heritage/gail
+  - region/northern-petal
+  - status/alive
+  - type/npc
 ---
 A champion prepared for the Idolon Arena of Castle Kingdom [[Magnolia]].
 

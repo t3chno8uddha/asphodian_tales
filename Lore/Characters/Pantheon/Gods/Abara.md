@@ -11,7 +11,10 @@ Family:
 Status: Alive
 First_Seen:
 tags:
-  - Gods
+  - gods
+  - pantheon
+  - status/alive
+  - type/god
 ---
 Goddess of **love**, **deceit**, and the patron god of **[[Fae]]**.
 

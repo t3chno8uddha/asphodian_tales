@@ -11,7 +11,11 @@ Family:
 Status: Alive
 First_Seen: 1441
 tags:
-  - Abyss_Mastery
+  - abyss-mastery
+  - heritage/aél
+  - region/northern-petal
+  - status/alive
+  - type/npc
 ---
 A child student of [[Brejur Academy]], with no real grasp of his power. Vigo unknowingly Abyssal Mastered the academy's entire population while he played the piano. Threatened, he turned the population into the Manipede, a massive magical human worm.
 

@@ -5,13 +5,16 @@ Location: The Western Petal
 Allegiance:
 Opposition:
 Populace:
-  - "[[Biota]]"
-  - "[[Fiend]]"
+  - "Biota"
+  - "Fiend"
 Status: Standing
 First_Seen:
-tags:
-  - Forest
 marker: [{ coordinates: "2415, 1128", colour: "#514e4b" }]
+tags:
+  - forest
+  - region/western-petal
+  - status/standing
+  - type/locale
 ---
 A godless jungle on the west side of the Western Petal. Home to [[Komadd]] and [[Kabor]].
 

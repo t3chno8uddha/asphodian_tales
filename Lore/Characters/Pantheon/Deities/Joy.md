@@ -12,6 +12,9 @@ Family:
 Status: Alive
 First_Seen: 1413
 tags:
+  - pantheon
+  - status/alive
+  - type/deity
 ---
 The child of [[Lutrios]], and also its very leaves. Said to be the embodiment of happiness of all living creatures.
 

@@ -1,9 +1,10 @@
 ---
 tags:
-  - Abyssal
-  - Empyrean
-  - Idolon
-  - Heresy
+  - abyssal
+  - empyrean
+  - heresy
+  - idolon
+  - phenomenon
 ---
 A heretical art of bringing the dead back to life, in their abyssal form. needs only the Idolon of the deceased and not their flesh, although the flesh helps preserve the soul for the ritual
 

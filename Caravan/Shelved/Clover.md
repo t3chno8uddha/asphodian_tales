@@ -10,7 +10,12 @@ Family:
   - Mother
 Status: Undone
 First_Seen: 1413
-Tags:
+tags:
+  - caravan
+  - heritage/construct
+  - shelved
+  - status/undone
+  - type/pc
 ---
 A man-made assassin created to sell out to the highest bidder.
 

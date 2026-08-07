@@ -1,6 +1,10 @@
 ---
 quartz-properties: false
 unlisted: true
+tags:
+  - rules
+  - rules/asphodia
+  - rules/class
 ---
 - **Mercantile Spirit** -{*P*}- +1♦ when trading, be it purchasing or selling.
 - **Joy of Creation** -{*P*}- +1♦ when crafting makeshift tools, weapons, and contraptions.

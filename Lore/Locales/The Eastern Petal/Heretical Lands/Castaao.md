@@ -7,7 +7,10 @@ Opposition:
 Populace:
 Status: Standing
 First_Seen: 
-tags:
 marker: [{ coordinates: "2553, 4611", colour: "#76726e" }]
+tags:
+  - region/eastern-petal
+  - status/standing
+  - type/locale
 ---
 ![[Castaao.png]]

@@ -9,10 +9,13 @@ Opposition:
 Populace:
 Status: Standing
 First_Seen: 1441
-Tags:
 marker:
   - coordinates: 4509, 3532
     colour: "#4b4136"
+tags:
+  - region/northern-petal
+  - status/standing
+  - type/locale
 ---
 A port kingdom that worships **Adamaal**. The Karacol Province does **not** practice capital punishment.
 

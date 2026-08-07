@@ -9,8 +9,11 @@ Populace:
   - "[[Lazi]]"
 Status: Standing
 First_Seen:
-tags:
 marker: [{ coordinates: "4488, 534", colour: "#434242" }]
+tags:
+  - region/lazalan-atoll
+  - status/standing
+  - type/locale
 ---
 The Lazalan Atoll is the other territory that [[Maluma]] won in the God War. It is home to the [[Lazi]] people, them being the only ones fit to live and thrive in such harsh environments.
 

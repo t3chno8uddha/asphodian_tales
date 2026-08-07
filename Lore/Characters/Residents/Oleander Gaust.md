@@ -13,6 +13,9 @@ Family:
 Status: Alive
 First_Seen: 1413
 tags:
+  - heritage/undine
+  - status/alive
+  - type/npc
 ---
 A prisoner of [[Infernait]]'s solitary confinement. 
 

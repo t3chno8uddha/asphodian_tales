@@ -1,9 +1,10 @@
 ---
 tags:
-  - Magic
-  - Fae
-  - Abara
-  - Raul
+  - abara
+  - fae
+  - magic
+  - phenomenon
+  - raul
 ---
 Edicts are special kinds of spells, most commonly associated with [[Abara]]. They function in an equational, rule-based manner, and said rules are self-governing across individual edicts. Declaring an Edict takes a permanent toll on the caster's soul.
 

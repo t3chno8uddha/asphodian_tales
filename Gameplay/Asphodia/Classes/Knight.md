@@ -1,6 +1,10 @@
 ---
 quartz-properties: false
 unlisted: true
+tags:
+  - rules
+  - rules/asphodia
+  - rules/class
 ---
 - **Weapons Master** -{*P*}- +1♦ when attacking with a weapon you hold.
 - **Knight's Codex** -{*P*}- When you act to defend or stand up for an ally, both you and the ally gain +1♦.

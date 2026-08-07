@@ -14,14 +14,19 @@ Family:
   - Unnamed Mother
 Status: Alive
 First_Seen: 1413
-Tags:
-  - Godblood
+tags:
+  - active
+  - caravan
+  - godblood
+  - heritage/gail
+  - status/alive
+  - type/pc
 ---
 An outlaw from [[Galatea]], looking for the author of his books, [[Abati Faria]].
 
 In 1413, he was sentenced to death for courting the queen, before he broke out and saved the Kingdom, granting him a pardon and an exile, instead. 
 
-Friends with [[princess Melodia]].
+Friends with [[Princess Melodia]].
 
 Happens to be [[Cronika]]'s godblood.
 

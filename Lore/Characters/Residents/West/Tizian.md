@@ -11,6 +11,9 @@ Family:
 Status: Alive
 First_Seen: 1441
 tags:
+  - region/western-petal
+  - status/alive
+  - type/npc
 ---
 The minister of Treasury of [[Mansfield]].
 

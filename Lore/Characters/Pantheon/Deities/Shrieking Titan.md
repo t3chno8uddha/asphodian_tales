@@ -9,7 +9,10 @@ Family:
 Status: Alive
 First_Seen:
 tags:
-  - Abyssal
+  - abyssal
+  - pantheon
+  - status/alive
+  - type/deity
 ---
 An Abyssal deity, thought to have previously belonged to some orator.
 

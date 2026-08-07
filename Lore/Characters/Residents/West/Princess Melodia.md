@@ -14,6 +14,9 @@ Family:
 Status: Alive
 First_Seen: 1413
 tags:
+  - region/western-petal
+  - status/alive
+  - type/npc
 ---
 Princess of [[Galatea]], sister of prince [[Hemos]], and a friend 
 of [[Graphel]]'s.

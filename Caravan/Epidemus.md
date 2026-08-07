@@ -10,7 +10,12 @@ Family:
   - Father, Dr.
 Status: Alive
 First_Seen: 1413
-Tags:
+tags:
+  - active
+  - caravan
+  - heritage/undine
+  - status/alive
+  - type/pc
 ---
 A plague doctor from [[Dhidalah]], exiled from his family in 1413 for being a failure. Has very little control of his Abyssal form.
 ![[epidemus.png]]

@@ -12,7 +12,10 @@ Family:
 Status: Alive
 First_Seen: 1413
 tags:
-  - Gods
+  - gods
+  - pantheon
+  - status/alive
+  - type/god
 ---
 God of **craftsmanship**, **solitude** and the patron god of **[[Aél]]**.
 

@@ -12,7 +12,10 @@ Family:
 Status: Alive
 First_Seen:
 tags:
-  - Gods
+  - gods
+  - pantheon
+  - status/alive
+  - type/god
 ---
 God of **blood**, **night**, and the patron god of **[[Vampyr]]**.
 

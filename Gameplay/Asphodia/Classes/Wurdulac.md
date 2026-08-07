@@ -1,6 +1,10 @@
 ---
 quartz-properties: false
 unlisted: true
+tags:
+  - rules
+  - rules/asphodia
+  - rules/class
 ---
 - **Death Grip** -{*P*}- +1♦ to cling to walls and ceilings; unseen and latched, your strikes land harder and your rolls come easier.
 - **Pale Pale Moon** -{*P*}- You heal swiftly under moonlight, but sunlight burns you and undoes your healing.

@@ -1,6 +1,10 @@
 ---
 quartz-properties: false
 unlisted: true
+tags:
+  - rules
+  - rules/asphodia
+  - rules/class
 ---
 - **Condemnation** -{*P*}- Your physical attacks may inflict mental ailments.
 - **Arcane Conjuring** -{*A*}- Manifest Arcanum - raw magic - up to your own body's mass, shaped as you will. Manifesting more than your limit will strain you.

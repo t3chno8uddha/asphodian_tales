@@ -12,8 +12,11 @@ Populace:
   - "[[Gail]]"
 Status: Standing
 First_Seen: 
-tags:
 marker: [{ coordinates: "2220, 3759", colour: "#4a4a5c" }]
+tags:
+  - region/eastern-petal
+  - status/standing
+  - type/locale
 ---
 A kingdom held jointly by [[Cronika]], [[Lancast]] and [[Fidico]], Had theological and political friction with **[[Drakengard]]** since 1327.
 

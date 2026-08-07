@@ -1,5 +1,7 @@
 ---
 quartz-properties: false
+tags:
+  - rules
 ---
 # 1. Rolling the Dice.
 ![[1. Rolling the Dice]]
@@ -18,7 +20,7 @@ quartz-properties: false
 
 ---
 # 5. Flesh, Soul and Damage.
-![[5. FLesh, Soul and Damage]]
+![[5. Flesh, Soul and Damage]]
 
 ---
 # 6. Sequences and Group Actions.

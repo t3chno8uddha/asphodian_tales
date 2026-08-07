@@ -8,10 +8,13 @@ Opposition:
 Populace:
 Status: Standing
 First_Seen: 1413
-tags:
 marker:
   - coordinates: 2778, 2412
     colour: "#554e3f"
+tags:
+  - region/western-petal
+  - status/standing
+  - type/shrine
 ---
 A hall of statues, depicting the Gods and their war - [[Crucito]]'s shrine to hismself and his siblings, for those who wish to pray.
 

@@ -5,14 +5,17 @@ Location: The Ocean
 Allegiance:
 Opposition:
 Populace:
-  - "[[Exanimate]]"
-  - "[[Fiend]]"
+  - "[[Exanimation|Exanimate]]"
+  - "Fiend"
 Status: Standing
 First_Seen:
-tags:
 marker:
   - coordinates: 525, 585
     colour: "#383837"
+tags:
+  - region/outlying
+  - status/standing
+  - type/locale
 ---
 A chain of sunken islands inhabited by The [[Herald Morticia]]. It exists in The Sempiternal Plane, fleeting in and out whenever the Herald has to hunt.
 

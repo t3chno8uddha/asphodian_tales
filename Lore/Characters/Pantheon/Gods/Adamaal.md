@@ -11,7 +11,10 @@ Family:
 Status: Alive
 First_Seen:
 tags:
-  - Gods
+  - gods
+  - pantheon
+  - status/alive
+  - type/god
 ---
 God of **war** and **hunting**, and the patron god of **[[Undine]]**.
 

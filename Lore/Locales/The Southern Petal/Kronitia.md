@@ -10,10 +10,13 @@ Populace:
   - "[[Aél]]"
 Status: Undone
 First_Seen:
-tags:
-  - Island
-  - Port
 marker: [{ coordinates: "1140, 3408", colour: "#6a5753" }]
+tags:
+  - island
+  - port
+  - region/southern-petal
+  - status/undone
+  - type/locale
 ---
 An island empire founded by [[Cronika]], and home to [[Raul]] and [[Rafael]] Tannengards.
 Above it stands the **[[Sempiternal Observatory]]**.

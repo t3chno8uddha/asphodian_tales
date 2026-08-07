@@ -10,7 +10,12 @@ Opposition:
 Family:
 Status: Alive
 First_Seen: 1441
-Tags:
+tags:
+  - active
+  - caravan
+  - heritage/aél
+  - status/alive
+  - type/pc
 ---
 An [[Aél]] [[Arcanist]], and the student of [[Abati Faria]], who is looking for his master.
 ![[ekthes_melphium.png]]

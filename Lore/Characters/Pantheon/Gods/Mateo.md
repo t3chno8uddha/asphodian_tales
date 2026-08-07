@@ -10,7 +10,10 @@ Family:
 Status: Alive
 First_Seen:
 tags:
-  - Gods
+  - gods
+  - pantheon
+  - status/alive
+  - type/god
 ---
 God of **discovery** and **redemption**.
 

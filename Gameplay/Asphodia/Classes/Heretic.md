@@ -1,6 +1,10 @@
 ---
 quartz-properties: false
 unlisted: true
+tags:
+  - rules
+  - rules/asphodia
+  - rules/class
 ---
 - **Alchemical Transmutation** -{*A*}- Transmute one element into another, or sacrifice matter to create something of equal worth; with strain, transmute wounds and ailments themselves.
 - **Alchemical Concoction** -{*A*}- Brew potions that cure or inflict ailments; you may attempt to disenchant what you identify.

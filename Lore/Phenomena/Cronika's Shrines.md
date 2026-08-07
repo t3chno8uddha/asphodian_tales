@@ -1,8 +1,9 @@
 ---
 tags:
-  - Cronika
-  - Time_Travel
-  - Pocket_Dimension
+  - cronika
+  - phenomenon
+  - pocket-dimension
+  - time-travel
 ---
 Scattered across the realms are shrines to many a god. [[Cronika]]'s shrines specifically carry an unique property: Her blood can imprint itself on the world like a star, and transfer iself between other imprints.
 

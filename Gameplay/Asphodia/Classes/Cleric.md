@@ -1,6 +1,10 @@
 ---
 quartz-properties: false
 unlisted: true
+tags:
+  - rules
+  - rules/asphodia
+  - rules/class
 ---
 - **For the Church** -{*P*}- +1♦ when pacifying, de-escalating, or addressing fellow clergy and the faithful.
 - **Holy Conduit** -{*A*}- Channel sacred energy to bless food, weapon, or ally; a blessed strike against the wicked exorcises them, and blessing purges malicious intent.

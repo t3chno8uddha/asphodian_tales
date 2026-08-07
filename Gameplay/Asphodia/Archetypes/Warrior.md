@@ -1,6 +1,10 @@
 ---
 quartz-properties: false
 unlisted: true
+tags:
+  - rules
+  - rules/archetype
+  - rules/asphodia
 ---
 > *You may resist Mental and Spiritual consequences with a Physical or Social Trait.*
 - **Encompasses:** *Drifter, Hunter, Knight and Inquisitor*.

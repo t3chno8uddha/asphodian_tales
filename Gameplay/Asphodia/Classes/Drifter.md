@@ -1,6 +1,10 @@
 ---
 quartz-properties: false
 unlisted: true
+tags:
+  - rules
+  - rules/asphodia
+  - rules/class
 ---
 - **Drifter's Sense** -{*P*}- +1♦ to read people and places for danger, correctly call a threat and your next move comes easier. +1♦ when looting.
 - **Expert Survivor** -{*P*}- Negative conditions fade with time on their own, and your worldliness lets you spot ailments in others and brew rough remedies for them. +1♦ when using regular items as weapons.

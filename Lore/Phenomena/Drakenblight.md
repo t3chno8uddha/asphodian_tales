@@ -1,9 +1,10 @@
 ---
 tags:
-  - Sickness
-  - Dragon
-  - Drakengard
-  - Daedalus
+  - daedalus
+  - dragon
+  - drakengard
+  - phenomenon
+  - sickness
 ---
 A Drakengardian sickness created by the [[Infernal Arbiter]] that turns beings into dragons.
 

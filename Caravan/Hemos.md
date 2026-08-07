@@ -14,10 +14,15 @@ Family:
   - "[[Lucas Daedalus Solare]]"
 Status: Alive
 First_Seen: 1413
-Tags:
-  - Godblood
+tags:
+  - active
+  - caravan
+  - godblood
+  - heritage/vampyr
+  - status/alive
+  - type/pc
 ---
-Next in line for the throne of [[Galatea]], and brother to [[princess Melodia]].
+Next in line for the throne of [[Galatea]], and brother to [[Princess Melodia]].
 
 In 1413, he left his kingdom to travel with the rest of the caravan.
 

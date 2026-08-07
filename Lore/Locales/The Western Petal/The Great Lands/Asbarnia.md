@@ -10,10 +10,13 @@ Populace:
   - "[[Undine]]"
 Status: Destroyed
 First_Seen: 1413
-tags:
 marker:
   - coordinates: 2259, 2445
     colour: "#564441"
+tags:
+  - region/western-petal
+  - status/destroyed
+  - type/locale
 ---
 A lush, invigorating river-town: flourishing greenery over stone and wood, a curling river split into veins, gondolas drifting like feathers. A peaceful, mixed populace — [[Gail]], [[Aél]], even [[Undine]] by the gondolas; "no hatred in anyone's eyes." A far cry from the grimmer places around it.
 

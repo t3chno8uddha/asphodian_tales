@@ -7,7 +7,10 @@ Opposition:
 Populace:
 Status: Standing
 First_Seen: 1441
-tags:
 marker: [{ coordinates: "4554, 2319", colour: "#685f51" }]
+tags:
+  - region/northern-petal
+  - status/standing
+  - type/locale
 ---
 ![[Dunacces.png]]

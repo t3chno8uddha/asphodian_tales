@@ -1,7 +1,8 @@
 ---
 tags:
-  - Leemward
-  - Pocket_Dimension
+  - leemward
+  - phenomenon
+  - pocket-dimension
 ---
 [[Leemward]]'s Caravan is the name of an enchanted rucksack that unfolds into a carriage.
 

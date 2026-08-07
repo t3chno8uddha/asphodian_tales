@@ -1,5 +1,8 @@
 ---
 quartz-properties: false
+tags:
+  - rules
+  - rules/asphodia
 ---
 There are 9 elements in the game - Agni, Aqua, Flora, Terra, Ventus, Volta, Sacrum, Profanum and Arcanum.
 

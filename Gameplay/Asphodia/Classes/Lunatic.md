@@ -1,6 +1,10 @@
 ---
 quartz-properties: false
 unlisted: true
+tags:
+  - rules
+  - rules/asphodia
+  - rules/class
 ---
 - **Devil Whisperer** -{*P*}- You can converse with Abyssals; +1♦ when dealing with them.
 - **Hell's Kitchen** -{*A*}- Devour flesh, blood, and bone to heal and regrow lost limbs; what you eat, you may come to remember, and what you eat, you may temporarily become.

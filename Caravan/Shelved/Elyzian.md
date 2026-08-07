@@ -10,7 +10,12 @@ Opposition:
 Family:
 Status: Dead
 First_Seen: 1413
-Tags:
+tags:
+  - caravan
+  - heritage/aél
+  - shelved
+  - status/dead
+  - type/pc
 ---
 A courtesan, who was rescued from her suicide attempt in 1413, by her client and admirer, [[Duke Daedalus]].
 

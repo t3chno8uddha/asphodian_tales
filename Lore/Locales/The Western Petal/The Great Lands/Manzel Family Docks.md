@@ -8,15 +8,18 @@ Opposition:
 Populace:
   - "[[Aél]]"
   - "[[Gail]]"
-  - "[[Biota]]"
+  - "Biota"
   - "[[Undine]]"
 Status: Standing
 First_Seen:
-tags:
-  - Port
 marker:
   - coordinates: 2151, 1872
     colour: "#5c4e54"
+tags:
+  - port
+  - region/western-petal
+  - status/standing
+  - type/locale
 ---
 A small port village south of [[Papillopolis]].
 

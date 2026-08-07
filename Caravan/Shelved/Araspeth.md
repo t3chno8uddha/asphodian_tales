@@ -10,7 +10,12 @@ Opposition:
 Family:
 Status: Dead
 First_Seen: 1413
-Tags:
+tags:
+  - caravan
+  - heritage/aél
+  - shelved
+  - status/dead
+  - type/pc
 ---
 A magician that mysteriously washed ashore [[Claypool Bay]] in 1413, with no memory of how she got there.
 ![[Araspeth.png]]

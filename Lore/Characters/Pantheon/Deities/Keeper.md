@@ -11,7 +11,10 @@ Family:
 Status: Alive
 First_Seen:
 tags:
-  - Empyrean
+  - empyrean
+  - pantheon
+  - status/alive
+  - type/deity
 ---
 [[The Claimant]]'s Empyrean.
 

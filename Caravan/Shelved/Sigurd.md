@@ -12,7 +12,12 @@ Opposition:
 Family:
 Status: Dead
 First_Seen: 1413
-Tags:
+tags:
+  - caravan
+  - heritage/gail
+  - shelved
+  - status/dead
+  - type/pc
 ---
 Hunter from [[Adamail]], who slayed Emperor [[Maxill]] Mandable in 1403.
 

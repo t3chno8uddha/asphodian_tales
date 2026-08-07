@@ -1,9 +1,10 @@
 ---
 tags:
-  - Cronika
-  - Time_Travel
-  - Chronokinesis
-  - Godblood
+  - chronokinesis
+  - cronika
+  - godblood
+  - phenomenon
+  - time-travel
 ---
 Chronokinesis is the ability to bend the flow of time to one's whim.
 

@@ -13,6 +13,9 @@ Family:
 Status: Alive
 First_Seen: 1413
 tags:
+  - pantheon
+  - status/alive
+  - type/deity
 ---
 The son of [[Crucito]] and [[Draca]].
 

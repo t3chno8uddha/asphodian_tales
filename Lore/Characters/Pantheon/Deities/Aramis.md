@@ -13,8 +13,11 @@ Family:
 Status: Alive
 First_Seen:
 tags:
-  - Dragon
-  - Empyrean
+  - dragon
+  - empyrean
+  - pantheon
+  - status/alive
+  - type/deity
 ---
 A colossal dragon hovering over [[Kronitia]].
 

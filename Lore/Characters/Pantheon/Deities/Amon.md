@@ -10,8 +10,11 @@ Family:
 Status: Sealed
 First_Seen: 1413
 tags:
-  - Abyssal
-  - Magic
+  - abyssal
+  - magic
+  - pantheon
+  - status/sealed
+  - type/deity
 ---
 An Occult being, and one of the earliest recorded Abyssals in history. A vile cannibal, one of the few Abyssals known to eat its own kind.
 

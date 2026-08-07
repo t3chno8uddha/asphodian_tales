@@ -1,3 +1,8 @@
+---
+tags:
+  - cosmology
+  - lore
+---
 ### Genesis:
 In the beginning, there was nothing but [[Asphea]]. Asphea grew lonely, and she created herself a husband - matter. Came the Fleeting Plane - a world for all that lives, and then the earth - Asphodia - the sun, the moon, and together, they bore twelve children, the gods:
 

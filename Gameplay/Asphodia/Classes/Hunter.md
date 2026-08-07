@@ -1,6 +1,10 @@
 ---
 quartz-properties: false
 unlisted: true
+tags:
+  - rules
+  - rules/asphodia
+  - rules/class
 ---
 - **Apex Predator** -{*P*}- +1♦ against an unsuspecting foe and during ambushes. A successful strike makes your next **push** free.
 - **Sleeping Soldier** -{*P*}- +1♦ to parry; a clean parry feeds your counter, and turns even feints to your favour. Straining yourself before a parry guarantees Trivial Peril and Miraculous Payoff.

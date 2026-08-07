@@ -12,7 +12,10 @@ Family:
 Status: Sealed
 First_Seen: 1413
 tags:
-  - Gods
+  - gods
+  - pantheon
+  - status/sealed
+  - type/god
 ---
 Tree god of **flora** and **fauna**.
 

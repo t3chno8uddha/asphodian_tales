@@ -12,6 +12,9 @@ Family:
 Status: Vague
 First_Seen: 1413
 tags:
+  - heritage/aél
+  - status/vague
+  - type/npc
 ---
 A guru residing in [[Rubimel]], able to guide visitors from the swamp town into [[Papillopolis]] - The First Forest.
 

@@ -6,13 +6,16 @@ Allegiance:
   - "[[Maluma]]"
 Opposition:
 Populace:
-  - "[[Fiend]]"
+  - "Fiend"
   - "[[Lazi]]"
-  - "[[Exanimate]]"
+  - "[[Exanimation|Exanimate]]"
 Status: Standing
 First_Seen:
-tags:
 marker: [{ coordinates: "2322, 813", colour: "#515546" }]
+tags:
+  - region/western-petal
+  - status/standing
+  - type/locale
 ---
 An ancient temple, obscured by a jungle, located on the south of the [[Forsaken Wildlands]].
 

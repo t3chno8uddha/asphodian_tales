@@ -13,7 +13,10 @@ Family:
 Status: Sealed
 First_Seen: 1413
 tags:
-  - Gods
+  - gods
+  - pantheon
+  - status/sealed
+  - type/god
 ---
 God of **camaraderie**, **hope**, and the patron god of **[[Gail]]**.
 

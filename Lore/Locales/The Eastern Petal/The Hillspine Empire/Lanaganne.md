@@ -9,8 +9,11 @@ Populace:
   - "[[Gail]]"
 Status: Standing
 First_Seen:
-tags:
 marker: [{ coordinates: "2178, 4500", colour: "#615661" }]
+tags:
+  - region/eastern-petal
+  - status/standing
+  - type/locale
 ---
 A stronghold city at the northern summit of [[Drakengard]].
 After being almost destroyed by [[Megido]] in 1327, it was usurped by Galatean refugees, who turned it into a draconian monarchy.

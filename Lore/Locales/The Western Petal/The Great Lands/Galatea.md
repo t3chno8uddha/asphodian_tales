@@ -12,8 +12,11 @@ Populace:
   - "[[Lazi]]"
 Status: Standing
 First_Seen: 1413
-tags:
 marker: [{ coordinates: "1385, 2500", colour: "#49475e" }]
+tags:
+  - region/western-petal
+  - status/standing
+  - type/locale
 ---
 The **largest kingdom in Asphodia, won by [[Galatus]] in the God War.**
 Home to Graphel, as well as prince Hemos Solare and his sister Melodia.

@@ -12,8 +12,11 @@ Populace:
   - "[[Lazi]]"
 Status: Standing
 First_Seen:
-tags:
 marker: [{ coordinates: "1563, 1416", colour: "#4f443a" }]
+tags:
+  - region/western-petal
+  - status/standing
+  - type/locale
 ---
 One of [[Adamaal]]'s two kingdoms. A massive fortress, and home to [[Sigurd]].
 

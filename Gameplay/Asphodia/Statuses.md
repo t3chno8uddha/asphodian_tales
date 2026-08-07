@@ -1,5 +1,8 @@
 ---
 quartz-properties: false
+tags:
+  - rules
+  - rules/asphodia
 ---
 There are 9 status ailments in the game. They are written down in damage slots, and go as follows:
 

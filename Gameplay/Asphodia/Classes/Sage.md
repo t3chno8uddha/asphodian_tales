@@ -1,6 +1,10 @@
 ---
 quartz-properties: false
 unlisted: true
+tags:
+  - rules
+  - rules/asphodia
+  - rules/class
 ---
 - **Astrologer's Boon** -{*P*}- +1♦ to physical Acts and Solar elements in sunlight and mental Acts and Lunar elements in moonlight. Strain yourself to glimpse in and out of the Sempiternal Plane, and converse with the Idolons roaming it.
 - **Threads of Prophecy** -{*A*}- Once per day, before an action, glimpse its outcome in advance; you may cancel the action, extend the glimpse to an ally, or resist it to change the outcome.

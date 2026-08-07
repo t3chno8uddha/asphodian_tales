@@ -1,7 +1,9 @@
 ---
-unlisted: true
+tags:
+  - lore
+  - politics
+  - region/northern-petal
 ---
-
 [[Magnolia]]'s main self-governing entities include:
 # Magnists
 The largest families and bloodlines of old, children of [[Magna]] that know magic both through their mind and their flesh. Despite looking down on the other factions, they do accept and allow them to live and exist outside the castle's inner ward. Their most common method of punishment is banishment and exile, but not from the castle but from the inner ward itself, out into the rest of the factions' territories. Travel in and out of the inner walls is strictly enforced, mostly by old and wizened members of the community.

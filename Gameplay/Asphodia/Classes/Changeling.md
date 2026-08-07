@@ -1,6 +1,10 @@
 ---
 quartz-properties: false
 unlisted: true
+tags:
+  - rules
+  - rules/asphodia
+  - rules/class
 ---
 - **Ethereal Matter** -{*P*}- Turn briefly to mist - swift and elusive - and you may carry an element within you to harm what you pass through.
 - **Devil's Minion** -{*P*}- Your held possessions never slip or break, and you may move them by will within reach. `Spiritual`

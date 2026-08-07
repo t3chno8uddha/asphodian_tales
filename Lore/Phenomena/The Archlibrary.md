@@ -1,7 +1,8 @@
 ---
 tags:
-  - Pocket_Dimension
-  - Magic
+  - magic
+  - phenomenon
+  - pocket-dimension
 ---
 A pocket dimension funded by a secret brotherhood of scholars, with gates to and from it all over the realm, dating as far back as the 13th century.
 

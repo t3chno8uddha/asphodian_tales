@@ -9,8 +9,11 @@ Populace:
   - "[[Lazi]]"
 Status: Standing
 First_Seen: 
-tags:
 marker: [{ coordinates: "4908, 540", colour: "#44362f" }]
+tags:
+  - region/lazalan-atoll
+  - status/standing
+  - type/locale
 ---
 ![[Capital_Lacertus.png]]
 ![[The_Hole.png]]

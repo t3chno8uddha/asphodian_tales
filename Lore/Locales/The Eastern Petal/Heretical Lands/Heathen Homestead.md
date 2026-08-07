@@ -7,6 +7,9 @@ Opposition:
 Populace:
 Status: Standing
 First_Seen:
-tags:
 marker: [{ coordinates: "2781, 3483", colour: "#443e39" }]
+tags:
+  - region/eastern-petal
+  - status/standing
+  - type/locale
 ---

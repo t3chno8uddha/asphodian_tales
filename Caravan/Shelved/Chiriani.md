@@ -10,7 +10,12 @@ Opposition:
 Family:
 Status: Alive
 First_Seen: 1413
-Tags:
+tags:
+  - caravan
+  - heritage/gail
+  - shelved
+  - status/alive
+  - type/pc
 ---
 A [[Mansfield]] orphan who briefly joined the party in 1413.
 
