@@ -2,7 +2,7 @@
 Full_Name: The Shrieking Titan
 Type: Deity
 Birthplace: "[[Wonderlay]]"
-Location: "[[Heathen Homestead]]"
+Location: "[[Dunacces]]"
 Allegiance:
 Opposition:
 Family:
