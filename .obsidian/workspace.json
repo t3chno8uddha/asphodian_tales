@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Lore/Characters/Residents/Via.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Via"
             }
           },
           {
@@ -111,7 +111,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 374.5
   },
   "right": {
     "id": "4ab132d8ced6087b",
@@ -216,11 +216,26 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "bc3779edce7cd1b6",
+  "active": "5f3eaaed260e3817",
   "lastOpenFiles": [
+    "Lore/Characters/Pantheon/Deities/The Claimant.md",
+    "Lore/Characters/Residents/Oleander Gaust.md",
+    "Lore/Locales/The Southern Petal/Kronitia.md",
+    "Lore/Locales/The Southern Petal/The Undone Empire Kronitia.md",
+    "Lore/Locales/The Eastern Petal/Heretical Lands/Adanasaan.md",
+    "Lore/Locales/The Eastern Petal/Asphodel's Arena/The Arena.md",
+    "Lore/Locales/The Eastern Petal/Asphodel's Arena/Asphodel's Arena.md",
+    "Lore/Locales/The Northern Petal/Karacolia/The Karacol Province.md",
+    "Lore/Locales/The Northern Petal/Karacolia/Crucito's Gallery.md",
+    "Lore/Locales/The Northern Petal/Karacolia/Maganuhl Archive.md",
+    "Lore/Locales/The Northern Petal/Karacol Province/Karacolia.md",
+    "Lore/Locales/The Eastern Petal/The Duchy/Deldi Fortress.md",
+    "Lore/Locales/The Eastern Petal/The Hillspine Empire/Lanaganne.md",
+    "Lore/Locales/The Eastern Petal/Drakengard/Lanaganne.md",
+    "Lore/Locales/The Eastern Petal/Drakengard/Drakengard.md",
+    "index.md",
     "Character Sheet.pdf",
     "Grimoire.WIP.md",
-    "index.md",
     "map.base",
     "TODO.md",
     "Review.md",
@@ -233,26 +248,12 @@
     "_Lore/Phenomena/Chronokinesis.md",
     "_Lore/Characters/Residents/Abati Faria.md",
     "_Lore/Characters/Residents/Ettrick.md",
-    "_Lore/Characters/Residents/Guru Dizang.md",
-    "_Lore/Characters/Residents/Oleander Gaust.md",
-    "_Lore/Characters/Pantheon/Gods/Fidico.md",
-    "_Lore/Characters/Pantheon/Gods/Lancast.md",
-    "_Lore/Locales/The Western Petal/Galatea/Mansfield Manor.md",
-    "_Lore/Characters/Residents/West/High General Perialus.md",
-    "Untitled.md",
-    "_Lore/Characters/Residents/West/Theo.md",
-    "_Lore/Phenomena/Abyss Mastery.md",
     "RanG0tivYlaKEOn5.Asphodian Tales.tar.gz",
     "BmUQajzoXGjs2q7j.Asphodian Tales.tar.gz",
     "NiAWzxUAFLjdnKCS.Asphodian Tales.tar.gz",
     "xurQAsLy0nzyosgh.Asphodian Tales.tar.gz",
     "Map.png",
-    "_Lore/Phenomena/Cronika's Shrines.md",
     "sIkYppM6hZ1QCT4g.Asphodian Tales.tar.gz",
-    "_Lore/Characters/Pantheon/Deities/Amon.md",
-    "_Lore/Characters/Pantheon/Deities/Via.md",
-    "_Lore/The Timeline.md",
-    "Session Notes/Specials/Evil visits Mansfield.md",
     "UnFCAfwVYPD0fUF0.Asphodian Tales.tar.gz",
     "Media/Images/sights/south/locales/the_sempiternal_observatory.png",
     "Media/Images/phenomena/leemward_s_caravan.png",

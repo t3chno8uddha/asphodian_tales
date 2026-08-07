@@ -4,12 +4,15 @@ Type: Locale
 Location: The Northern Petal
 Allegiance:
   - "[[Adamaal]]"
+  - The Caravan
 Opposition:
 Populace:
 Status: Standing
 First_Seen: 1441
 Tags:
-marker: [{ coordinates: "4509, 3532", colour: "#4b4136" }]
+marker:
+  - coordinates: 4509, 3532
+    colour: "#4b4136"
 ---
 A port kingdom that worships **Adamaal**. The Karacol Province does **not** practice capital punishment.
 
