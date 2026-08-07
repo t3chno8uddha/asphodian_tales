@@ -6,7 +6,6 @@ quartz-properties: false
 
 ---
 # 2. Peril & Payoff.
-
 ![[2. Peril & Payoff]]
 
 ---
@@ -32,7 +31,6 @@ quartz-properties: false
 ---
 # 8. Spells, Scrolls and Attunement.
 ![[8. Spells, Scrolls and Attunement]]
-
 
 ---
 # 9. Quests.
