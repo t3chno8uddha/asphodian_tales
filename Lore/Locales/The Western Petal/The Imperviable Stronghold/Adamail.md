@@ -18,6 +18,7 @@ tags:
   - status/standing
   - type/locale
 ---
+![[Adamail - The Eastern Kingdom of Mikado.mp3]]
 One of [[Adamaal]]'s two kingdoms. A massive fortress, and home to [[Sigurd]].
 
 At the edge of the kingdom, there is a spire titled Adamaal's Levee. The tower leads to the bottom of the Western sea, to the [[Undine]] kingdom.

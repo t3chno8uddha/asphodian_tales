@@ -17,6 +17,7 @@ tags:
   - status/standing
   - type/locale
 ---
+![[Karacolia - K's Tavern.mp3]]
 A port kingdom that worships **Adamaal**. The Karacol Province does **not** practice capital punishment.
 
 In 1413, the heir to the throne was slain, and his brother inherited the royal line.
