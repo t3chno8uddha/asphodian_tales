@@ -3,7 +3,7 @@ Full_Name: Oleander Gaust
 Type: NPC
 Heritage: "[[Undine]]"
 Birthplace: "[[Kronitia]]"
-Location: "[[Ehelden]]"
+Location:
 Allegiance:
   - "[[Rafael]]"
   - "[[Second Son]]"

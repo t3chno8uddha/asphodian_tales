@@ -3,7 +3,7 @@ Full_Name: Guru Dizang
 Type: NPC
 Heritage: "[[Aél]]"
 Birthplace: "[[Rubimel]]"
-Location: "[[Ehelden]]"
+Location: "[[Dunacces]]"
 Allegiance:
   - "[[Asphea]]"
 Opposition:
