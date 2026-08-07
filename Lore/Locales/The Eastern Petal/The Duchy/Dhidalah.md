@@ -19,5 +19,5 @@ tags:
 ---
 One of two mountain ranges [[Draca]] won in the God War; she gave Dhidalah to [[Duke Daedalus]] as home.
 
-![[the_duchy_of_dhidalah_1.png]]
-![[the_duchy_of_dhidalah_2.png]]
+![[dhidalah_1.png]]
+![[dhidalah_2.png]]

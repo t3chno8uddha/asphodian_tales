@@ -15,4 +15,5 @@ tags:
   - status/standing
   - type/locale
 ---
-A spire built by Karacolians that leads directly to and from Adamail's Imperviable Stronghold.
+A spire built by Karacolians that leads directly to and from Adamail's Imperviable Stronghold. Keeps records and archives of many historical events, and a large bestiary for hunters.
+![[maganuhl.png]]

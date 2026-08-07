@@ -5,6 +5,7 @@ Location: "[[Magnolia]]"
 Allegiance:
 Opposition:
 Populace:
+  - "[[Gail]]"
 Status: Standing
 First_Seen: 1413
 marker:

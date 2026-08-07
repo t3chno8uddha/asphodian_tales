@@ -13,44 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Characters/Pantheon/Deities/Shrieking Titan.md",
+                "file": "Lore/Locales/The Atoll/Lazalan Atoll.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Shrieking Titan"
-            }
-          },
-          {
-            "id": "e8aed765331b782b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Gameplay/Asphodia/Archetypes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Archetypes"
-            }
-          },
-          {
-            "id": "25db6590b5ab6642",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Caravan/Graphel.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Graphel"
+              "title": "Lazalan Atoll"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +69,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -231,54 +202,53 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "25db6590b5ab6642",
+  "active": "5f3eaaed260e3817",
   "lastOpenFiles": [
+    "Lore/Locales/The Atoll/Lacertus.md",
+    "Lore/Locales/The Atoll/Lazalan Atoll.md",
+    "Media/Images/sights/the_ocean/lazalan_atoll/atoll.png",
+    "Media/Images/sights/the_ocean/lazalan_atoll/island_environment_by_2wenty_d4m6gfv-fullview.jpg",
+    "Lore/Locales/The Eastern Petal/Asphodel's Arena/The Arena.md",
+    "Lore/Locales/The Eastern Petal/Asphodel's Arena/Solotos.md",
+    "Lore/Locales/The Eastern Petal/Asphodel's Arena/Melumdam.md",
+    "Lore/Locales/The Eastern Petal/Asphodel's Arena/Kahamag.md",
+    "Media/Images/sights/east/locales/arena/melumdam_shore.png",
+    "Media/Images/sights/east/locales/arena/solotos.png",
+    "Media/Images/sights/east/locales/arena/melumdam.png",
+    "Media/Images/sights/east/locales/arena/kahamag.png",
+    "Media/Images/sights/east/locales/arena/asphodel_s_arena.png",
+    "Media/Images/sights/east/locales/arena/asphodel_s_arena.jpg",
+    "Media/Unused/asphodel_s_arena.jpg",
+    "Media/Images/sights/east/locales/arena",
+    "Media/Images/sights/east/locales/Untitled Folder",
+    "Lore/Locales/The Eastern Petal/Heretical Lands/Adanasaan.md",
+    "Lore/Locales/The Eastern Petal/Heretical Lands/Castaao.md",
+    "Lore/Locales/The Eastern Petal/Heretical Lands/Dvorakia.md",
+    "Lore/Locales/The Eastern Petal/Heretical Lands/Grove Groove Canyon.md",
+    "Media/Images/sights/east/locales/heathen_homestead/grove_groove.png",
+    "Lore/Locales/The Eastern Petal/Heretical Lands/Heathen Homestead.md",
+    "Lore/Locales/The Eastern Petal/The World Chasm.md",
+    "Lore/Locales/The Eastern Petal/Wonderlay.md",
     "Lore/Locales/The Northern Petal/Snowshower Mountaintops/Basalaat Spire.md",
     "Lore/Locales/The Northern Petal/Snowshower Mountaintops/Ehelden.md",
-    "Lore/Locales/The Northern Petal/Snowshower Mountaintops/Yamashaar.md",
-    "Lore/Locales/The Northern Petal/Snowshower Mountaintops/Wassonia.md",
     "Lore/Locales/The Northern Petal/Snowshower Mountaintops/The Heroes Pantheon.md",
-    "Lore/Locales/The Northern Petal/Snowshower Mountaintops",
-    "Lore/Locales/The Western Petal/The First Forest/Papillopolis.md",
-    "Lore/Locales/The Western Petal/The First Forest/Misthrong Holt.md",
-    "Lore/Locales/The Western Petal/The First Forest",
-    "Gameplay/Wilt/5. Flesh, Soul and Damage.md",
-    "Asphodian Tales.tar.gz",
-    "1UPR46lnkZfMDq7c.Asphodian Tales.tar.gz",
-    "Caravan/Hemos.md",
-    "Lore/Characters/Residents/West/Princess Melodia.md",
+    "Lore/Locales/The Northern Petal/Snowshower Mountaintops/Wassonia.md",
+    "Lore/Locales/The Northern Petal/Snowshower Mountaintops/Yamashaar.md",
+    "Lore/Locales/The Northern Petal/The Dunacce Stretch/Brejur Academy.md",
+    "Lore/Locales/The Northern Petal/The Dunacce Stretch/Dunacces.md",
+    "Lore/Locales/The Northern Petal/The Dunacce Stretch/Freeflight Mountain Range.md",
+    "Lore/Locales/The Northern Petal/The Karacol Province/Crucito's Gallery.md",
     "Lore/Locales/The Northern Petal/The Karacol Province/Karacolia.md",
-    "index.md",
-    "Lore/Characters/Pantheon/Deities/Shrieking Titan.md",
-    "Lore/Characters/Pantheon/Deities/The Claimant.md",
-    "Lore/Characters/Pantheon/Deities/Aramis.md",
-    "918Et4yC0JnYTBck.Asphodian Tales.tar.gz",
-    "Lore/Characters/Pantheon/Gods/Abara.md",
-    "Lore/Characters/Pantheon/Gods/Adamaal.md",
-    "Lore/Characters/Residents/Via.md",
-    "Lore/Characters/Residents/Oleander Gaust.md",
-    "Lore/Characters/Residents/Guru Dizang.md",
-    "Lore/Characters/Residents/Abati Faria.md",
-    "Lore/Characters/Pantheon/Asphea.md",
-    "Session Notes/Season 2/Episode 3.md",
-    "Session Notes/Season 2/Episode 1.md",
-    "Character Sheet.pdf",
-    "Caravan/Ekthes.md",
-    "Caravan/Shelved/Alastor.md",
+    "Lore/Locales/The Northern Petal/The Karacol Province/Maganuhl Archive.md",
+    "Lore/Locales/The Southern Petal/Kronitia.md",
+    "Media/Images/sights/east/locales/heathen_homestead",
+    "Media/Images/sights/north/locales/ehelden",
+    "Media/Images/sights/north/locales/Untitled Folder",
     "map.base",
-    "DaNyViWfiOTlGPM5.Asphodian Tales.tar.gz",
-    "RanG0tivYlaKEOn5.Asphodian Tales.tar.gz",
-    "BmUQajzoXGjs2q7j.Asphodian Tales.tar.gz",
-    "Map.png",
-    "Media/Images/sights/south/locales/the_sempiternal_observatory.png",
-    "Media/Images/phenomena/leemward_s_caravan.png",
-    "Media/Images/tokens/t_via.png",
-    "Media/Images/pantheon/deities/via.png",
-    "Media/Images/tokens/t_daedalus.png",
-    "Media/Images/sights/south/locales/kronitia.png",
-    "Media/Images/sights/east/characters/duke_daedalus.png",
-    "Media/Images/pantheon/deities/the_claimant.png",
-    "Media/Images/pantheon/deities/graphel_empyrean.png",
+    "Media/Music/6 - Hazardous Peril/Traces of Malevolent Souls.m4a",
+    "Media/Music/6 - Hazardous Peril/Terminal March.mp3",
+    "Media/Music/6 - Hazardous Peril/Cross A Fear.m4a",
+    "Media/Music/6 - Hazardous Peril/Twisted Streets.mp3",
     "_Lore/Ongoing Threads.canvas",
     "Gamedev/Godot/the_napoleons/bulletin draft.canvas"
   ]

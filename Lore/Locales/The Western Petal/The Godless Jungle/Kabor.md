@@ -1,17 +1,19 @@
 ---
 Full_Name: Kabor
-Type: Locale
+Type: Structure
 Location: "[[Forsaken Wildlands]]"
 Allegiance:
   - "[[Maluma]]"
 Opposition:
 Populace:
-  - "Fiend"
+  - Fiend
   - "[[Lazi]]"
   - "[[Exanimation|Exanimate]]"
 Status: Standing
 First_Seen:
-marker: [{ coordinates: "2322, 813", colour: "#515546" }]
+marker:
+  - coordinates: 2322, 813
+    colour: "#515546"
 tags:
   - region/western-petal
   - status/standing

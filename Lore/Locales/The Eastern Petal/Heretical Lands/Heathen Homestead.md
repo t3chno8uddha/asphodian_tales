@@ -13,3 +13,10 @@ tags:
   - status/standing
   - type/locale
 ---
+The heathen homestead is a place that bows no god.
+
+Heathen Homestead is inhabited by those who reject the Firstborn Twelve, and thus Most of its population is barred from the afterlives, doomed to forever roam the Sempiternal Plane as vagrant Idolons.
+
+Home to some of the most dangerous Abyssals history has records of.
+![[homestead_1.png]]
+![[homestead_2.png]]

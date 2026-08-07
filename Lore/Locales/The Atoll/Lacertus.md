@@ -15,5 +15,6 @@ tags:
   - status/standing
   - type/locale
 ---
+Capital of the [[Lazalan Atoll]]. Despite the Atoll's people being a typically religious and leading a humble existence, Lacertus can be considered one of, if not the most technically advanced civilizations in the realm.
 ![[Capital_Lacertus.png]]
 ![[The_Hole.png]]

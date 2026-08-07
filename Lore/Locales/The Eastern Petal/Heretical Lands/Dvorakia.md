@@ -14,7 +14,7 @@ tags:
   - status/standing
   - type/locale
 ---
-The largest kingdom in the [[Heathen Homestead]], a place that bows to no god.
-Ruled by Maxill Mandable for 30 years, before his demise in 1403 by the hands of Sigurd.
+The largest empire in the [[Heathen Homestead]].
 
+Ruled by Maxill Mandable for 30 years, before his demise in 1403 by the hands of Sigurd.
 ![[Dvorakia.png]]

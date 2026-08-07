@@ -18,3 +18,4 @@ tags:
 Ancient abandoned monastery.
 1400 onward, a large oracle settlement south of [[Dhidalah]].
 Home to [[Alastor]].
+![[ensiferia.png]]

@@ -13,4 +13,5 @@ tags:
   - status/standing
   - type/locale
 ---
+A trading town right at the edge of the [[Heathen Homestead]].
 ![[Castaao.png]]

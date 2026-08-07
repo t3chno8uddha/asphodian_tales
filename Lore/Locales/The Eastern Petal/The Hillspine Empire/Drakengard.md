@@ -25,5 +25,6 @@ The mountain range where **[[Draca]]** built her own home. Worships Draca. Home 
 > 
 > Drakengard is the target of **[[Rafael]]'s** vengeance, and in **1441** the launch-point of Draca's world-ending war once she learns her son **Daedalus** conspired against her.
 
-![[Drakengard.png]]
-![[Drakengard_Capital.png]]
+![[drakengard_1.png]]
+![[drakengard_capital.png]]
+![[drakengard_2.png]]

@@ -1,6 +1,6 @@
 ---
 Full_Name: Deldi Fortress
-Type: Locale
+Type: Structure
 Location: "[[Dhidalah]]"
 Allegiance:
   - "[[Draca]]"
@@ -8,7 +8,6 @@ Allegiance:
 Opposition:
 Populace:
   - "[[Vampyr]]"
-  - "Construct"
 Status: Standing
 First_Seen:
 marker:
@@ -20,3 +19,4 @@ tags:
   - type/locale
 ---
 A large, living castle that resides on the highest mountain of the Eastern Petal. It is where [[Duke Daedalus]] lives.
+![[deldi.png]]

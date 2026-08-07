@@ -1,10 +1,13 @@
 ---
 Full_Name: Basalaat Spire
 Type: Locale
-Location: "[[Magnolia]]"
+Location: "[[Ehelden]]"
 Allegiance:
+  - "[[Crucito]]"
 Opposition:
 Populace:
+  - "[[Aél]]"
+  - "[[Vampyr]]"
 Status: Standing
 First_Seen:
 marker:
@@ -15,3 +18,5 @@ tags:
   - status/standing
   - type/locale
 ---
+A kingdom built under the mountains of [[Ehelden]], most well renowned for its ancient people and excellent craftsmen.
+![[basalaat.png]]

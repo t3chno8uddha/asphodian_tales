@@ -16,4 +16,5 @@ tags:
   - type/locale
 ---
 One of the most advanced and peaceful civilizations in the realm. Ehelden is well renowned for its cold temperatures and warm smiles.
-![[Snowshower_Mountaintops_of_Ehelden.png]]
+![[ehelden_1.png]]
+![[ehelden_2.png]]
