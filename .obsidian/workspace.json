@@ -1,0 +1,269 @@
+{
+  "main": {
+    "id": "c4321e175a5ea3f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f7bd506d26d3c94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc3779edce7cd1b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "e8aed765331b782b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Gameplay/Asphodia/Archetypes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Archetypes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a756d71dbbc5cb6c",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb7328a5d1e53f53",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f3eaaed260e3817",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e1c1446cdbc26476",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "b57d117a8c44c1e7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "623f18d9e8c9ee48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Season 1/Episode 10.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Episode 10"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "4ab132d8ced6087b",
+    "type": "split",
+    "children": [
+      {
+        "id": "71db93074d8cc682",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d56ac5303f1dd84",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "7e8211e3c8355abe",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "308f44b11c999cf4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Gameplay/Archetypes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "4a5a5202c830d94c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Gameplay/Archetypes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "21fc3392ce215fb9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Gameplay/Archetypes.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "templates:Insert template": false,
+      "daily-notes:Open today's daily note": false
+    }
+  },
+  "active": "bc3779edce7cd1b6",
+  "lastOpenFiles": [
+    "Character Sheet.pdf",
+    "Grimoire.WIP.md",
+    "index.md",
+    "map.base",
+    "TODO.md",
+    "Review.md",
+    "Asphodian Tales.tar.gz",
+    "DaNyViWfiOTlGPM5.Asphodian Tales.tar.gz",
+    "_Gameplay/Asphodia/Archetypes.md",
+    "_Gameplay/Asphodia/Abilities.md",
+    "_Gameplay/Asphodia/Heritages.md",
+    "_Gameplay/Asphodia/Elements & Statuses.md",
+    "_Lore/Phenomena/Chronokinesis.md",
+    "_Lore/Characters/Residents/Abati Faria.md",
+    "_Lore/Characters/Residents/Ettrick.md",
+    "_Lore/Characters/Residents/Guru Dizang.md",
+    "_Lore/Characters/Residents/Oleander Gaust.md",
+    "_Lore/Characters/Pantheon/Gods/Fidico.md",
+    "_Lore/Characters/Pantheon/Gods/Lancast.md",
+    "_Lore/Locales/The Western Petal/Galatea/Mansfield Manor.md",
+    "_Lore/Characters/Residents/West/High General Perialus.md",
+    "Untitled.md",
+    "_Lore/Characters/Residents/West/Theo.md",
+    "_Lore/Phenomena/Abyss Mastery.md",
+    "RanG0tivYlaKEOn5.Asphodian Tales.tar.gz",
+    "BmUQajzoXGjs2q7j.Asphodian Tales.tar.gz",
+    "NiAWzxUAFLjdnKCS.Asphodian Tales.tar.gz",
+    "xurQAsLy0nzyosgh.Asphodian Tales.tar.gz",
+    "Map.png",
+    "_Lore/Phenomena/Cronika's Shrines.md",
+    "sIkYppM6hZ1QCT4g.Asphodian Tales.tar.gz",
+    "_Lore/Characters/Pantheon/Deities/Amon.md",
+    "_Lore/Characters/Pantheon/Deities/Via.md",
+    "_Lore/The Timeline.md",
+    "Session Notes/Specials/Evil visits Mansfield.md",
+    "UnFCAfwVYPD0fUF0.Asphodian Tales.tar.gz",
+    "Media/Images/sights/south/locales/the_sempiternal_observatory.png",
+    "Media/Images/phenomena/leemward_s_caravan.png",
+    "Media/Images/tokens/t_via.png",
+    "Media/Images/pantheon/deities/via.png",
+    "Media/Images/tokens/t_daedalus.png",
+    "Media/Images/sights/south/locales/kronitia.png",
+    "Media/Images/sights/east/characters/duke_daedalus.png",
+    "Media/Images/pantheon/deities/the_claimant.png",
+    "Media/Images/pantheon/deities/graphel_empyrean.png",
+    "_Lore/Ongoing Threads.canvas",
+    "Gamedev/Godot/the_napoleons/bulletin draft.canvas"
+  ]
+}

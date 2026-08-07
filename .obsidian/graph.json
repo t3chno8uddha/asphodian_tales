@@ -1,0 +1,79 @@
+{
+  "collapse-filter": false,
+  "search": "hemos",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Lore/Locales  ",
+      "color": {
+        "a": 1,
+        "rgb": 7716290
+      }
+    },
+    {
+      "query": "Path:Lore/Characters/Pantheon  ",
+      "color": {
+        "a": 1,
+        "rgb": 10760883
+      }
+    },
+    {
+      "query": "Path:Lore/Characters/Residents  ",
+      "color": {
+        "a": 1,
+        "rgb": 16771584
+      }
+    },
+    {
+      "query": "Path:Players  ",
+      "color": {
+        "a": 1,
+        "rgb": 24826
+      }
+    },
+    {
+      "query": "Path:Media  ",
+      "color": {
+        "a": 1,
+        "rgb": 197379
+      }
+    },
+    {
+      "query": "path:\"Session Notes\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16735324
+      }
+    },
+    {
+      "query": "Path:Gameplay  ",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "Path:Lore  ",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -0.9,
+  "nodeSizeMultiplier": 1.56612774595809,
+  "lineSizeMultiplier": 0.451665922951063,
+  "collapse-forces": false,
+  "centerStrength": 0.828573553473152,
+  "repelStrength": 19.9984716490906,
+  "linkStrength": 0.736067142751969,
+  "linkDistance": 30,
+  "scale": 1.4125303001574703,
+  "close": false
+}

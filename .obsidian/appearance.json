@@ -1,0 +1,11 @@
+{
+  "accentColor": "#ddc631",
+  "cssTheme": "Sanctum",
+  "textFontFamily": "Cinzel,Cinzel Decorative",
+  "interfaceFontFamily": "Cinzel Decorative,Cinzel",
+  "baseFontSize": 16,
+  "baseFontSizeAction": false,
+  "showViewHeader": true,
+  "showRibbon": true,
+  "monospaceFontFamily": "Libertinus Mono"
+}
