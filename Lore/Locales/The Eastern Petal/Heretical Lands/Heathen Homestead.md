@@ -4,10 +4,13 @@ Type: Locale
 Location: The Eastern Petal
 Allegiance:
 Opposition:
+  - The firstborn Twelve
 Populace:
 Status: Standing
 First_Seen:
-marker: [{ coordinates: "2781, 3483", colour: "#443e39" }]
+marker:
+  - coordinates: 2781, 3483
+    colour: "#443e39"
 tags:
   - region/eastern-petal
   - status/standing
