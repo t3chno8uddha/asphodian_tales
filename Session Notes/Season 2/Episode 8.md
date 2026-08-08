@@ -5,4 +5,4 @@ unlisted: true
 
 "Before you stretches, from your eyes to the horizon line, a massive mountain valley, covered from summit to peak in ancient stone and wood. The mountain settlement only ever rises in altitude, almost piercing the clouds at its highest. A coold breeze greets you as you step your foot ashore. Welcome, to Dunacces."
 
-The two parties will be lead to meet each other, as they will also meet [[Guru Dizang]] who is after the same deity. Dizang will try to convince the rest to join forces, as the Titan is a highly dangerous being.
+The two parties will be lead to meet each other, as they will also meet [[Dizang]] who is after the same deity. Dizang will try to convince the rest to join forces, as the Titan is a highly dangerous being.

@@ -3,7 +3,7 @@ Full_Name: Oleander Gaust
 Type: NPC
 Heritage: "[[Undine]]"
 Birthplace: "[[Kronitia]]"
-Location:
+Location: "[[Wonderlay]]"
 Allegiance:
   - "[[Rafael]]"
   - "[[Second Son]]"
@@ -27,5 +27,8 @@ A prisoner of [[Infernait]]'s solitary confinement.
 >Oleander Gaust was a key player in the killing of [[King Robert IV]] and the secret plot to usurp his children.
 >
 >One of the only recorded mortals with whom the [[Second Son]] has ever directly spoken to. Despite being [[Undine]], The Second Son is said to have granted Oleander an eternal life.
+>
+>[[Rafael]] had him broken out with the intent of having him dethrone the new king of [[Wonderlay]] again, and while Oleander complied, he usurped the usurper himself, ruling Wonderlay in disguise, on the Second Son's behalf.
+
 
 ![[oleander_gaust.png]]

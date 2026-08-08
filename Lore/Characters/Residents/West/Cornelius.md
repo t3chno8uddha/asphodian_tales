@@ -14,7 +14,7 @@ Opposition:
   - "[[Francis]]"
   - "[[Chiriani]]"
 Family:
-Status: Vague
+Status: Dead
 First_Seen: 1413
 tags:
   - region/western-petal

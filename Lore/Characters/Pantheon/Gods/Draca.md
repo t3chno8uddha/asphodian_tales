@@ -27,5 +27,7 @@ Her most noteworthy relic is the **Manderwool Cloak**, a celestial cape that bes
 
 >[!spoilers]
 > Draca's profound  shame in having killed her sister [[Cronika]] in 1400 led Drakengard into an age of  turmoil. She had since resigned herself to grief, in the solitude of her throne room.
+> 
+> IN 1441, she laid in wait in [[Ehelden]], to meet the caravan in disguise, and guide them toward the corruption in [[Wonderlay]] - honoring her sister's memory, and perhaps clearing herself of some guilt.
 
 ![[Draca.png]]

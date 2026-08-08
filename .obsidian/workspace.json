@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/The Timeline.md",
+                "file": "Quests/Available/An Astral Audience.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Timeline"
-            }
-          },
-          {
-            "id": "119bb674cc1bb6bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore/The Timeline.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Timeline"
+              "title": "An Astral Audience"
             }
           }
         ]
@@ -107,8 +93,7 @@
               "title": "Episode 10"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -219,21 +204,32 @@
   },
   "active": "6b77668471ff6d10",
   "lastOpenFiles": [
-    "Session Notes/Season 2/Episode 8.md",
+    "KzxYknACJp5cGFm0.Asphodian Tales.tar.gz",
+    "Quests/Available/The Inviolate Interpreter.md",
+    "Quests/Available/An Astral Audience.md",
+    "Quests/Available/Breaking Bread, Breaking Blood.md",
+    "Quests/Available/Divine Bookkeeping.md",
+    "Templates/template_quest.md",
+    "Quests/Available/Untitled.md",
+    "Lore/Characters/Pantheon/Gods/Draca.md",
+    "Lore/Characters/Residents/Oleander Gaust.md",
+    "Caravan/Shelved/Elyzian.md",
+    "Media/Images/sights/west/characters/dizang.png",
+    "Lore/Characters/Residents/Dizang.md",
+    "Lore/Characters/Pantheon/Deities/Second Son.md",
+    "Lore/Characters/Residents/South/Rafael.md",
+    "Lore/Characters/Residents/West/Cornelius.md",
     "Lore/The Timeline.md",
+    "Lore/Characters/Residents/South/Raul.md",
+    "Session Notes/Season 1/Episode 10.md",
+    "Session Notes/Season 2/Episode 8.md",
     "Rules/Wilt.md",
     "Asphodian Tales.tar.gz",
     "O30Vu4Ys5z3RnwBS.Asphodian Tales.tar.gz",
     "Quests/Available/The Holy Grapevine.md",
     "Quests/Available/Re-Memberance.md",
-    "Quests/Available/The Inviolate Interpreter.md",
-    "Quests/Available/Breaking Bread, Breaking Blood.md",
-    "Quests/Available/Divine Bookkeeping.md",
-    "Quests/Available/Untitled.md",
     "Lore/Locales/The Eastern Petal/Heretical Lands/Adanasaan.md",
-    "Templates/template_quest.md",
     "Lore/Characters/Residents/East/Duke Daedalus.md",
-    "Lore/Characters/Residents/South/Raul.md",
     "Rules/Wilt/9. Quests.md",
     "Rules/Wilt/10. Character Creation.md",
     "Quests/Stalled",
@@ -242,19 +238,9 @@
     "Quests/Available",
     "Templates",
     "Lore/Locales/The Eastern Petal/Heretical Lands/Heathen Homestead.md",
-    "Lore/Locales/The Eastern Petal/Heretical Lands/Grove Groove Canyon.md",
     "map.base",
     "Character Sheet.pdf",
-    "Grimoire.WIP.md",
-    "index.md",
-    "Review.md",
-    "Lore/Locales/The Northern Petal/The Karacol Province/Karacolia.md",
-    "Lore/Characters/Residents/Guru Dizang.md",
     "Quests",
-    "Lore/Characters/Residents/Oleander Gaust.md",
-    "Rules/Wilt/5. Flesh, Soul and Damage.md",
-    "Gameplay/Wilt/5. FLesh, Soul and Damage.md",
-    "Lore/Locales/The Western Petal/The Imperviable Stronghold/Adamail.md",
     "Media/Images/sights/the_ocean/lazalan_atoll/atoll.png",
     "Media/Images/sights/the_ocean/lazalan_atoll/island_environment_by_2wenty_d4m6gfv-fullview.jpg",
     "Media/Images/sights/east/locales/arena/melumdam_shore.png",
@@ -264,7 +250,6 @@
     "Media/Images/sights/east/locales/arena/asphodel_s_arena.png",
     "Media/Images/sights/east/locales/arena/asphodel_s_arena.jpg",
     "Media/Unused/asphodel_s_arena.jpg",
-    "Media/Images/sights/east/locales/heathen_homestead/grove_groove.png",
     "_Lore/Ongoing Threads.canvas",
     "Gamedev/Godot/the_napoleons/bulletin draft.canvas"
   ]
