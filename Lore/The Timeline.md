@@ -27,10 +27,10 @@ tags:
 - The party fights the infected archdragon god for the Kaleidoscope. Araspeth, Elyzian and Sigurd perish.
 - [[Alastor]], after the same fight, battles the party and joins it.
 - At [[Eethert Plains]]: Raul and [[Epidemus]] join; Chiriani bids the party adieu, to become a physician. The Eethert affair - [[Father Ludwig]]'s smuggling ring, and the murder of mayor [[Alfonso Eethert]] during a divination ritual - is dated to this year.
-- In parallel: [[Magnus]] washes ashore the [[Amethyst Coast]] and, with [[Lillianele]], is recruited by Rafael - entrusted with a bag of clothes and bones, inscribed in golden on blue: Maxill. They murder the young Karacolian prince (his brother inherits the royal line), enter [[Infernait]] as inmates, and break out [[Oleander Gaust]] - and [[Morgan]] - Oleander freed for the sole reason of hunting down and killing Francis. The explosion at Infernait launches Maxill skyward.
+- In parallel: [[Magnus]] washes ashore the [[Amethyst Coast]] and, with [[Lillianele]], is recruited by Rafael - entrusted with a bag of clothes and bones, inscribed in golden on blue: Maxill. They murder the young Karacolian prince (his brother inherits the royal line), enter [[Infernait]] as inmates, and break out [[Oleander Gaust]] - and [[Morgan]]. The explosion at Infernait launches Maxill skyward.
 - [[Umbraaltar]] holds the New Moon Amulet and a Thundergale Fang. Graphel acquires both and hands them to Raul.
-- At [[Asbarnia]]: [[Bishop Clairmont]] sells the citizens' souls to Rafael, conducting the Bell-Bearer ritual through his painting collection. The party destroys the Bell Bearer. Daedalus, attuned to all [[Vampyr]], punishes Clairmont by misleading him into burning his own village and himself to the ground.
-- At the [[Temple of Asphodel]], the party makes the acquaintance of [[Crucito]], who lends Graphel his hammer, the Hamaul.
+- At [[Asbarnia]]: [[Bishop Clairmont]] sells the citizens' souls to Rafael, conducting the Bell-Bearer ritual through his painting collection. The party destroys the Bell Bearer. Daedalus punishes Clairmont by misleading him into burning his own village and himself to the ground.
+- At the [[Temple of Asphodel]], the party makes the acquaintance of [[Crucito]], who lends Graphel his hammer.
 - Past [[Rubimel]], Maxill falls from the sky and joins the party.
 - At [[Papillopolis]], the party communes with [[Lutrios]] and is subjected to visions they can't yet decode. Alastor is punished for his hubris with intense spiritual power over which he has no control. Francis' trial is deemed unnecessary, and [[King Robert IV]] greets him as son.
 - Papillopolis and Rubimel burn; the last sapling of Lutrios comes to reside in Alastor's soul.
@@ -50,7 +50,9 @@ tags:
 - Duke Daedalus greets the reunited party, and cordially invites them to Dhidalah for a seance with him.
 - At [[Brejur Academy]]: the academy is found Ashes-to-Ashes'd over by the child [[Vigo]], its population ghosts possessing their own decomposing bodies; Abyssals attack the party by night. After dispelling the execration, Alastor takes him to a school in Magnolia.
 - The party heads north to [[Wassonia]]; Alastor departs south to reconvene with Lutrios. In a snowstorm they meet [[Brant]], who joins. In the monastery they find a tome written in [[Godspeak]], which Rafael and his Abyssal army are also after. Rafael, Maxill's master, orders him to attack his allies. Both sides emerge halfway victorious, a torn half of the tome going to each.
-### The undone futures, 1441
-- First timeline: the war Graphel witnessed - him and his party members dying as deities tower over them. Graphel musters his energy and returns through time.
-- Second timeline: Graphel aids Raul by allying with Daedalus. Draca learns her son conspired against her, slays Daedalus and the brothers, and wages her own war - destroying Galatea, Wonderlay and Dhidalah. [[Temeran]] fights Draca for killing their son, forcing the other gods' hands to intervene; the world ends again, as collateral damage of all the gods fighting.
-- Graphel returns through time once more, to the present the characters now know, and dons the identity of the writer Abati Faria.
+
+>[!spoilers]
+> ### The undone futures, **1441**
+> - First timeline: the war Graphel witnessed - him and his party members dying as deities tower over them. Graphel musters his energy and returns through time.
+> - Second timeline: Graphel aids Raul by allying with Daedalus. Draca learns her son conspired against her, slays Daedalus and the brothers, and wages her own war - destroying Galatea, Wonderlay and Dhidalah. [[Temeran]] fights Draca for killing their son, forcing the other gods' hands to intervene; the world ends again, as collateral damage of all the gods fighting.
+> - Graphel returns through time once more, to the present the characters now know, and dons the identity of the writer Abati Faria.
