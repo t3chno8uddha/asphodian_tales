@@ -3,7 +3,6 @@ Full_Name: Hemos Solare
 Type: PC
 Heritage: "[[Vampyr]]"
 Birthplace: "[[Galatea]]"
-Location: "[[Wassonia]]"
 Allegiance:
   - "[[Galatea]]"
 Opposition:

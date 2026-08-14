@@ -3,7 +3,6 @@ Full_Name: Sir Francis
 Type: PC
 Heritage: "[[Gail]]"
 Birthplace: "[[Wonderlay]]"
-Location: "[[Wassonia]]"
 Allegiance:
   - "[[Wonderlay]]"
 Opposition:

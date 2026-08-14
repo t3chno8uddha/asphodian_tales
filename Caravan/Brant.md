@@ -3,7 +3,6 @@ Full_Name: Brant
 Type: PC
 Heritage: "[[Fae]]"
 Birthplace: "[[Wonderlay]]"
-Location: "[[Wassonia]]"
 Allegiance:
 Opposition:
   - "[[Megido]]"

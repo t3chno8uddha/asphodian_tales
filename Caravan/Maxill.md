@@ -3,7 +3,6 @@ Full_Name: Maxill Mandable
 Type: PC
 Heritage: "[[Lazi]]"
 Birthplace: "[[Dvorakia]]"
-Location: "[[Wassonia]]"
 Allegiance:
   - "[[Rafael]]"
   - "[[Dvorakia]]"

@@ -3,7 +3,6 @@ Full_Name: Bulga
 Type: PC
 Heritage: "[[Lazi]]"
 Birthplace: "[[Lazalan Atoll]]"
-Location: "[[Wassonia]]"
 Allegiance:
 Opposition:
 Family:

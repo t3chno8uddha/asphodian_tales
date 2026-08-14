@@ -49,6 +49,7 @@ tags:
 - Duke Daedalus greets the reunited party, and cordially invites them to Dhidalah for a seance with him.
 - At [[Brejur Academy]]: the academy is found Ashes-to-Ashes'd over by the child [[Vigo]], its population ghosts possessing their own decomposing bodies; Abyssals attack the party by night. After dispelling the execration, Alastor takes him to a school in Magnolia.
 - The party heads north to [[Wassonia]]; Alastor departs south to reconvene with Lutrios. In a snowstorm they meet [[Brant]], who joins. In the monastery they find a tome written in [[Godspeak]], which Rafael and his Abyssal army are also after. Rafael, Maxill's master, orders him to attack his allies. Both sides emerge halfway victorious, a torn half of the tome going to each.
+- Brant splits from the rest of the caravan, seeking answers to Raphael's onslaught. Instead, he found [[Dizang]], [[Caliburn]], [[Sani]] and [[Via]]. Together with [[James]], they subdued the [[Shrieking Titan]] and received some truths from it.
 
 >[!spoilers]
 > # The undone futures, **1441**

@@ -3,7 +3,6 @@ Full_Name: Caliburn
 Type: PC
 Heritage: "[[Vampyr]]"
 Birthplace: "[[Lanaganne]]"
-Location: "[[Amethyst Coast]]"
 Allegiance:
 Opposition:
 Family:

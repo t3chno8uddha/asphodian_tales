@@ -16,5 +16,7 @@ tags:
   - type/locale
 ---
 One of the most advanced and peaceful civilizations in the realm. Ehelden is well renowned for its cold temperatures and warm smiles.
+Atop it stands the Eheli lake, frozen-over. Past the lake rests the Eheli mountain.
 ![[ehelden_1.png]]
+![[map_ehelden.png]]
 ![[ehelden_2.png]]
