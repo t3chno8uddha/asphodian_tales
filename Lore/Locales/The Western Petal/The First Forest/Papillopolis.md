@@ -6,18 +6,19 @@ Allegiance:
   - "[[Lutrios]]"
 Opposition:
 Populace:
-  - "Biota"
-  - "God"
-Status: Destroyed
+  - Biota
+  - God
+Status: Alive
 First_Seen: 1413
-marker: [{ coordinates: "2865, 1764", colour: "#52514d" }]
+marker:
+  - coordinates: 2865, 1764
+    colour: "#52514d"
 tags:
   - forest
   - region/western-petal
   - status/destroyed
   - type/locale
 ---
-**Status, 1441:** *Burned to the ground in 1413; the last sapling of [[Lutrios]] resides in the soul of [[Alastor]]. The following description reflects the forest before the burning.*
 ![[Outside_Papillopolis.png]]
 Home and grounds of the god Lutrios, as well as his children, and the place where all flora was born.
 
@@ -29,4 +30,6 @@ The tree-god is the trunk, and its daughter, [[Joy]] is the leaves.
 Access is impermanent, granted or denied as a soul changes. The interior is bathed in golden sunlight, a sharp contrast to the fairy-nighttime of the surrounding swamp; inside, it feels as if no world exists but the present moment.
 
 In 1413, a catastrophic event caused the tree to burn to the ground, and its remaining sapling resides in the soul of [[Alastor]].
+
+In 1441, Alastor fulfilled the prophecy by ensouling the tree, bringing Lutrios back from his slumber.
 ![[inside_papillopolis.png]]
