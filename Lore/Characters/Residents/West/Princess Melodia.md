@@ -21,5 +21,4 @@ tags:
 Princess of [[Galatea]], sister of prince [[Hemos]], and a friend 
 of [[Graphel]]'s.
 
->[!spoilers]
->As of 1441, brainwashed by [[Rafael]].
+As of 1441, brainwashed by [[Rafael]].

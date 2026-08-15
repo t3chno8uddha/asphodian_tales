@@ -51,8 +51,7 @@ tags:
 - The party heads north to [[Wassonia]]; Alastor departs south to reconvene with Lutrios. In a snowstorm they meet [[Brant]], who joins. In the monastery they find a tome written in [[Godspeak]], which Rafael and his Abyssal army are also after. Rafael, Maxill's master, orders him to attack his allies. Both sides emerge halfway victorious, a torn half of the tome going to each.
 - Brant splits from the rest of the caravan, seeking answers to Raphael's onslaught. Instead, he found [[Dizang]], [[Caliburn]], [[Sani]] and [[Via]]. Together with [[James]], they subdued the [[Shrieking Titan]] and received some truths from it.
 
->[!spoilers]
-> # The undone futures, **1441**
-> - First timeline: the war Graphel witnessed - him and his party members dying as deities tower over them. Graphel musters his energy and returns through time.
-> - Second timeline: Graphel aids Raul by allying with Daedalus. Draca learns her son conspired against her, slays Daedalus and the brothers, and wages her own war - destroying Galatea, Wonderlay and Dhidalah. [[Temeran]] fights Draca for killing their son, forcing the other gods' hands to intervene; the world ends again, as collateral damage of all the gods fighting.
-> - Graphel returns through time once more, to the present the characters now know, and dons the identity of the writer Abati Faria.
+# The undone futures, **1441**
+- First timeline: the war Graphel witnessed - him and his party members dying as deities tower over them. Graphel musters his energy and returns through time.
+- Second timeline: Graphel aids Raul by allying with Daedalus. Draca learns her son conspired against her, slays Daedalus and the brothers, and wages her own war - destroying Galatea, Wonderlay and Dhidalah. [[Temeran]] fights Draca for killing their son, forcing the other gods' hands to intervene; the world ends again, as collateral damage of all the gods fighting.
+- Graphel returns through time once more, to the present the characters now know, and dons the identity of the writer Abati Faria.

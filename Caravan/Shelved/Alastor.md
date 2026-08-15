@@ -3,7 +3,7 @@ Full_Name: Alastor
 Type: PC
 Heritage: "[[Gail]]"
 Birthplace: "[[Ensiferia]]"
-Location: "[[Papillopolis]]"
+Location: The Elemental Plane
 Allegiance:
 Opposition:
 Family:

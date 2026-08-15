@@ -29,4 +29,5 @@ Friends with [[Princess Melodia]].
 
 Happens to be [[Cronika]]'s godblood.
 
+The past self of Abati Faria.
 ![[graphel_degrie.png]]

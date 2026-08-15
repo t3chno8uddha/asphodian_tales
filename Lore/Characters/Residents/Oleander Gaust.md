@@ -19,16 +19,15 @@ tags:
 ---
 A prisoner of [[Infernait]]'s solitary confinement. 
 
->[!spoilers]
-> Oleander can turn into a poisonous mist, and need only punch an unarmored target to kill them instantly, turning their bones into equipment.
-> 
-> In 1413, [[Rafael]] had him broken out by [[Magnus]], [[Lillianele]] and [[Maxill]], with the reason of hunting down and killing an unknown target.
-> 
->Oleander Gaust was a key player in the killing of [[King Robert IV]] and the secret plot to usurp his children.
->
->One of the only recorded mortals with whom the [[Second Son]] has ever directly spoken to. Despite being [[Undine]], The Second Son is said to have granted Oleander an eternal life.
->
->[[Rafael]] had him broken out with the intent of having him dethrone the new king of [[Wonderlay]] again, and while Oleander complied, he usurped the usurper himself, ruling Wonderlay in disguise, on the Second Son's behalf.
+Oleander can turn into a poisonous mist, and need only punch an unarmored target to kill them instantly, turning their bones into equipment.
 
+In 1413, [[Rafael]] had him broken out by [[Magnus]], [[Lillianele]] and [[Maxill]], with the reason of hunting down and killing an unknown target.
+
+Oleander Gaust was a key player in the killing of [[King Robert IV]] and the secret plot to usurp his children.
+
+One of the only recorded mortals with whom the [[Second Son]] has ever directly spoken to. Despite being [[Undine]], The Second Son is said to have granted Oleander an eternal life.
+
+>[!spoilers]
+>[[Rafael]] had him broken out with the intent of having him dethrone the new king of [[Wonderlay]] again, and while Oleander complied, he usurped the usurper himself, ruling Wonderlay in disguise, on the Second Son's behalf.
 
 ![[oleander_gaust.png]]

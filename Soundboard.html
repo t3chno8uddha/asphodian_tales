@@ -421,8 +421,12 @@ function idbGet(store,key){
 }
 
 /* ---------- data model ---------- */
-// slots[i] = { name, files:[{id,name,blob}], trackIndex, history } — playback is always shuffled and always loops the playlist
-let slots=Array.from({length:SLOT_COUNT},()=>({name:null,files:[],trackIndex:0,history:[]}));
+// slots[i] = { name, files:[{id,name,blob}], trackIndex, queue, queuePos }
+// "queue" is a shuffled permutation of file indices (a shuffle bag). trackIndex always
+// equals queue[queuePos]. Every file plays once before the bag is reshuffled, so you
+// can't land back on a track you just heard a moment ago — playback is always shuffled
+// and always loops the playlist.
+let slots=Array.from({length:SLOT_COUNT},()=>({name:null,files:[],trackIndex:0,queue:[],queuePos:0}));
 let activeSlot=-1;
 
 /* ---------- Web Audio engine ---------- */
@@ -504,7 +508,10 @@ function selectSlot(idx,fromRemote,forceTrackIndex){
   const fadeSec=getFadeSeconds();
   const prevIdx=activeSlot;
 
-  if(fromRemote && forceTrackIndex!=null && forceTrackIndex<slot.files.length) slot.trackIndex=forceTrackIndex;
+  if(fromRemote && forceTrackIndex!=null && forceTrackIndex<slot.files.length){
+    slot.trackIndex=forceTrackIndex;
+    syncQueuePos(idx);
+  }
 
   activeSlot=idx; // reassign BEFORE rendering prevIdx, so its "playing" class correctly clears
 
@@ -518,25 +525,65 @@ function selectSlot(idx,fromRemote,forceTrackIndex){
   if(!fromRemote) syncSend({t:"select",idx,trackIndex:slot.trackIndex});
 }
 
-/* ---------- shuffle track index picking (always on; playlist always loops) ---------- */
+/* ---------- shuffle bag: build/consume a shuffled queue of track indices ---------- */
+function shuffleArr(arr){
+  for(let i=arr.length-1;i>0;i--){
+    const j=Math.floor(Math.random()*(i+1));
+    [arr[i],arr[j]]=[arr[j],arr[i]];
+  }
+  return arr;
+}
+// Build a fresh shuffled order of 0..n-1. If avoidFirst is given, make sure the new
+// bag doesn't open on the same track that just finished (no back-to-back repeats
+// across a reshuffle boundary).
+function buildShuffledQueue(n,avoidFirst){
+  const arr=shuffleArr([...Array(n).keys()]);
+  if(n>1 && avoidFirst!=null && arr[0]===avoidFirst){
+    const j=1+Math.floor(Math.random()*(n-1));
+    [arr[0],arr[j]]=[arr[j],arr[0]];
+  }
+  return arr;
+}
+// Call after trackIndex is set by something other than next/prevIndexFor (e.g. a
+// remote sync message) so the bag doesn't get out of step with what's playing.
+function syncQueuePos(slotIdx){
+  const slot=slots[slotIdx];
+  if(!slot.queue || !slot.queue.length) return;
+  const pos=slot.queue.indexOf(slot.trackIndex);
+  if(pos>=0) slot.queuePos=pos;
+  else slot.queue=[]; // stale bag (shouldn't normally happen) — rebuilt lazily on next use
+}
+function ensureQueue(slotIdx){
+  const slot=slots[slotIdx];
+  if(!slot.queue || slot.queue.length!==slot.files.length){
+    slot.queue=buildShuffledQueue(slot.files.length,slot.trackIndex);
+    slot.queuePos=Math.max(0,slot.queue.indexOf(slot.trackIndex));
+  }
+}
 function nextIndexFor(slotIdx){
   const slot=slots[slotIdx];
   const n=slot.files.length;
   if(n<=1) return slot.trackIndex;
-  slot.history.push(slot.trackIndex);
-  if(slot.history.length>50) slot.history.shift();
-  let idx;
-  do{ idx=Math.floor(Math.random()*n); }while(idx===slot.trackIndex);
-  return idx;
+  ensureQueue(slotIdx);
+  slot.queuePos++;
+  if(slot.queuePos>=slot.queue.length){
+    slot.queue=buildShuffledQueue(n,slot.trackIndex); // fresh bag once every track has played
+    slot.queuePos=0;
+  }
+  return slot.queue[slot.queuePos];
 }
 function prevIndexFor(slotIdx){
   const slot=slots[slotIdx];
   const n=slot.files.length;
   if(n<=1) return slot.trackIndex;
-  if(slot.history.length) return slot.history.pop();
-  let idx;
-  do{ idx=Math.floor(Math.random()*n); }while(idx===slot.trackIndex);
-  return idx;
+  ensureQueue(slotIdx);
+  if(slot.queuePos>0){
+    slot.queuePos--;
+  }else{
+    slot.queue=buildShuffledQueue(n,slot.trackIndex);
+    slot.queuePos=slot.queue.length-1;
+  }
+  return slot.queue[slot.queuePos];
 }
 
 /* ---------- transport: prev / next / play-pause ---------- */
@@ -544,6 +591,7 @@ function switchTrackWithinSlot(slotIdx,newIdx,fromRemote){
   const fadeSec=getFadeSeconds();
   stopVoice(slotIdx,fadeSec);
   slots[slotIdx].trackIndex=newIdx;
+  syncQueuePos(slotIdx);
   saveSlotMeta(slotIdx);
   playTrackForSlot(slotIdx,fadeSec,false);
   renderSlot(slotIdx);
@@ -598,8 +646,8 @@ async function loadFilesIntoSlot(idx,fileList){
     entries.push(rec);
     await idbPut("files",rec);
   }
-  const startIdx=entries.length>1?Math.floor(Math.random()*entries.length):0;
-  slots[idx]={name:folderName,files:entries,trackIndex:startIdx,history:[]};
+  const startQueue=buildShuffledQueue(entries.length,null);
+  slots[idx]={name:folderName,files:entries,trackIndex:startQueue[0],queue:startQueue,queuePos:0};
   await saveSlotMeta(idx);
   renderSlot(idx);
   setStatus("Loaded "+entries.length+" track(s) into "+folderName+".");
@@ -613,7 +661,7 @@ function clearSlot(idx,evt){
     updateNowPlaying();
     updatePlayPauseUI();
   }
-  slots[idx]={name:null,files:[],trackIndex:0,history:[]};
+  slots[idx]={name:null,files:[],trackIndex:0,queue:[],queuePos:0};
   idbDeleteBySlot("files",idx);
   saveSlotMeta(idx);
   renderSlot(idx);
@@ -789,7 +837,8 @@ async function restoreFromDB(){
       name:meta.name||("Slot "+(idx+1)),
       files:byslot[slotKey],
       trackIndex:Math.min(meta.trackIndex||0,byslot[slotKey].length-1),
-      history:[]
+      queue:[],
+      queuePos:0
     };
   }
   renderAll();
