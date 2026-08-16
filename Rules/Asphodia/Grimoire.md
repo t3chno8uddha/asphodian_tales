@@ -1,7 +1,7 @@
 ---
 quartz-properties: false
-unlisted: true
 ---
+
 | **Name**                |              Act |                                                                                                                                     Description |
 | ----------------------- | ---------------: | ----------------------------------------------------------------------------------------------------------------------------------------------: |
 | **Counterstrike**       |   Endure **(0)** |                                                                                *The caster applies a shield that reflects any physical strike.* |

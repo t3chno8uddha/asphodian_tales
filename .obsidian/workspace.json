@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "9f7bd506d26d3c94",
+        "id": "a2ca1d30fbdd675b",
         "type": "tabs",
         "children": [
           {
-            "id": "3d19b9be381c20d7",
+            "id": "1f89e772eec37945",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Season 2/Episode 9.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Episode 9"
-            }
-          },
-          {
-            "id": "50ed1a6895cda4b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore/The Timeline.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Timeline"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,8 +199,11 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "50ed1a6895cda4b2",
+  "active": "1f89e772eec37945",
   "lastOpenFiles": [
+    "Rules/Asphodia/Grimoire.md",
+    "Session Notes/Season 2/Episode 9.md",
+    "Lore/The Timeline.md",
     "Lore/Cosmology.md",
     "Lore/Politics/Magnolian Factions.md",
     "Lore/Characters/Pantheon/Deities/Herald Morticia.md",
@@ -243,9 +227,6 @@
     "Lore/Locales/The Western Petal/The Godless Jungle/Madina Porro.md",
     "Lore/Locales/The Western Petal/The Godless Jungle/Komadd.md",
     "Lore/Locales/The Western Petal/The Godless Jungle/Kabor.md",
-    "Lore/Locales/The Western Petal/The Godless Jungle/Forsaken Wildlands.md",
-    "Lore/Locales/The Western Petal/The First Forest/Papillopolis.md",
-    "Lore/Locales/The Western Petal/The First Forest/Misthrong Holt.md",
     "Asphodian Tales.tar.gz",
     "KLImspWxidRFcGW4.Asphodian Tales.tar.gz",
     "Media/Images/sights/north/locales/map_ehelden.png",

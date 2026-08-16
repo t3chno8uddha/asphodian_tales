@@ -21,7 +21,7 @@ tags:
 # 1413
 - Rafael brainwashes the leading Galatean witch-hunter [[Cornelius]], to control [[Galatea|Galatea]] from within. [[Duke Daedalus]], catching wind of this, infects the resting god [[Galatus]] with [[Drakenblight]], to thwart Rafael's plans and prevent the armies from leaving north.
 - Graphel breaks out of prison and, uniting with prince [[Hemos]], [[Sigurd]], [[Araspeth]], [[Francis]] and [[Chiriani]], fights Cornelius and brings the kingdom back from peril; the kidnapped princess is freed. Graphel is pardoned and exiled.
-- North, at the Library of Galatea: the two Condors are defeated; the resident wizard is found dead of old age; [[Leemward]] offers his services, his guidance, and a looking glass, and points Graphel to the Kaleidoscope of Galatus. Word is sent to take down the wall segregating Galatea's magical and human residents.
+- North, at the Library of Galatea: the two Condors are defeated; the resident wizard is found dead of old age; [[Leemward]] offers his services, his guidance, and a looking glass, and points Graphel to the Kaleidoscope of Galatus. Word- Duke Daedalus greets the reunited party, and cordially invites them to Dhidalah for a seance with him. is sent to take down the wall segregating Galatea's magical and human residents.
 - [[Elyzian]] joins. A Drakenblight epidemic is traced back to Galatus' tomb at [[Ga'Al-Tey Monastery]].
 - The party fights the infected archdragon god for the Kaleidoscope. Araspeth, Elyzian and Sigurd perish.
 - [[Alastor]], after the same fight, battles the party and joins it.
