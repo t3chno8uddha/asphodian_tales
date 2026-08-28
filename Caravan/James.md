@@ -22,4 +22,4 @@ A lumberjack from [[Dunacces]], that helped the Caravan conquer the [[Shrieking 
 > [!spoilers]
 > Child of an unfulfilled prophecy. His axe is a deity that speaks to him through it.
 
-
+![[james.png]]
