@@ -18,3 +18,4 @@ tags:
 ---
 A plague doctor from [[Dhidalah]], exiled from his family in 1413 for being a failure. Has very little control of his Abyssal form.
 ![[epidemus.png]]
+![[epidemus_abyssal.png]]

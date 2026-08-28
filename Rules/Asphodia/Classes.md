@@ -3,7 +3,6 @@ quartz-properties: false
 tags:
   - rules
   - rules/asphodia
-unlisted: true
 ---
 # The Knight
 ![[Knight]]

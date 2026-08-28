@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Asphodia/Classes.wiup.md",
+                "file": "Rules/Asphodia/Classes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Classes.wiup"
+              "title": "Classes"
             }
           }
         ]
@@ -204,13 +204,14 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "1379e0fe81dde48d",
+  "active": "5f3eaaed260e3817",
   "lastOpenFiles": [
+    "Caravan/Epidemus.md",
     "Rules/Asphodia/Classes.canvas",
+    "Rules/Asphodia/Classes.md",
     "Rules/Asphodia/Classes/Knight.md",
     "Rules/Asphodia/Classes/Cleric.md",
     "Rules/Asphodia/Classes/Changeling.md",
-    "Rules/Asphodia/Classes.wiup.md",
     "Rules/Asphodia/Elements.md",
     "Caravan/Brant.md",
     "Caravan/Shelved/Araspeth.md",
@@ -231,7 +232,6 @@
     "Lore/Locales/The Northern Petal/Snowshower Mountaintops/Ehelden.md",
     "Lore/The Timeline.md",
     "Lore/Characters/Residents/Dizang.md",
-    "Lore/Locales/The Northern Petal/Snowshower Mountaintops/Yamashaar.md",
     "map.base",
     "Media/Images/players/howl.png",
     "Media/Images/players/Howl.png",
