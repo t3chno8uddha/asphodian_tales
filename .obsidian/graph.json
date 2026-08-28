@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "hemos",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -29,7 +29,7 @@
       }
     },
     {
-      "query": "Path:Players  ",
+      "query": "Path:Caravan  ",
       "color": {
         "a": 1,
         "rgb": 24826
@@ -50,10 +50,10 @@
       }
     },
     {
-      "query": "Path:Gameplay  ",
+      "query": "Path:Rules  ",
       "color": {
         "a": 1,
-        "rgb": 16777215
+        "rgb": 4390785
       }
     },
     {
@@ -74,6 +74,6 @@
   "repelStrength": 19.9984716490906,
   "linkStrength": 0.736067142751969,
   "linkDistance": 30,
-  "scale": 1.4125303001574703,
+  "scale": 0.41852749634295405,
   "close": false
 }

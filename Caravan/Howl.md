@@ -1,0 +1,21 @@
+---
+Full_Name: Diszy Howl
+Type: PC
+Heritage: "[[Aél]]"
+Birthplace: "[[Ehelden]]"
+Allegiance:
+  - "[[Abati Faria]]"
+Opposition:
+Family:
+Status: Alive
+First_Seen: 1413
+tags:
+  - active
+  - caravan
+---
+Diszy Howl is a retired clockmaker and Sage, who, after getting bored of her job, invented a new type of magic - by bending airwaves to create sounds, similar to music. That kind of music was named Dizcotec, after her.
+
+According to the allegedly 200 year old magician, her creation has haunted her since. 
+
+Therefore, Howl quit her practice and shut herself away in her hometown.
+![[Howl.png]]
