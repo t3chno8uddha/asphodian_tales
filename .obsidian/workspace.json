@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Questlines/Available/Dizcotec Eheli.md",
+                "file": "Questlines/Available/The Two Thrones.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dizcotec Eheli"
+              "title": "The Two Thrones"
             }
           }
         ],
@@ -234,6 +234,7 @@
   },
   "active": "40119805d2c7dbdc",
   "lastOpenFiles": [
+    "Questlines/Available/Dizcotec Eheli.md",
     "Lore/The Timeline.md",
     "Caravan/Howl.md",
     "Questlines/Resolved/An Astral Audience.md",
@@ -242,7 +243,6 @@
     "Questlines/Resolved/The Holy Grapevine.md",
     "Questlines/Available/A wonderful Birthright.md",
     "Lore/Locales/The Eastern Petal/Wonderlay.md",
-    "Questlines/Available/Dizcotec Eheli.md",
     "Questlines/Available/The Two Thrones.md",
     "Questlines/Available/Uncarved Fate.md",
     "Questlines/Ongoing/In Face of Creation.md",
