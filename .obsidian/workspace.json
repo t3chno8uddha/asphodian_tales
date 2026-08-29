@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Survivor"
             }
+          },
+          {
+            "id": "40119805d2c7dbdc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Questlines/Available/Dizcotec Eheli.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dizcotec Eheli"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -218,37 +232,37 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "b591cd9c45c39c04",
+  "active": "40119805d2c7dbdc",
   "lastOpenFiles": [
+    "Lore/The Timeline.md",
+    "Caravan/Howl.md",
+    "Questlines/Resolved/An Astral Audience.md",
+    "Questlines/Resolved/Divine Bookkeeping.md",
+    "Questlines/Resolved/Grafting of Holy Roots.md",
+    "Questlines/Resolved/The Holy Grapevine.md",
+    "Questlines/Available/A wonderful Birthright.md",
+    "Lore/Locales/The Eastern Petal/Wonderlay.md",
+    "Questlines/Available/Dizcotec Eheli.md",
+    "Questlines/Available/The Two Thrones.md",
+    "Questlines/Available/Uncarved Fate.md",
+    "Questlines/Ongoing/In Face of Creation.md",
+    "Questlines/Ongoing/Divine Liberation.md",
+    "Questlines/Ongoing/Re-Memberance.md",
+    "Lore/Locales/The Eastern Petal/The Hillspine Empire/Lanaganne.md",
+    "Lore/Characters/Pantheon/Deities/Megido.md",
+    "Questlines/Ongoing/Breaking Bread, Breaking Blood.md",
+    "Questlines/Ongoing/The Inviolate Interpreter.md",
     "Rules/Asphodia/Archetypes/Arcanist.md",
-    "Rules/Asphodia/Archetypes/Scholar.md",
-    "Rules/Asphodia/Archetypes/Occultist.md",
-    "Rules/Asphodia/Archetypes/Everyman.md",
-    "Rules/Asphodia/Archetypes/Survivor.md",
-    "Rules/Asphodia/Archetypes.md",
-    "Rules/Asphodia/Archetypes/Zealot.md",
-    "Rules/Asphodia/Archetypes/Warrior.md",
-    "Rules/Asphodia/Heritages.md",
-    "Rules/Asphodia/Grimoire.md",
-    "Rules/Asphodia/Elements.md",
+    "Lore/Characters/Pantheon/Gods/Temeran.md",
+    "Lore/Characters/Pantheon/Gods/Mateo.md",
+    "Lore/Characters/Pantheon/Gods/Maluma.md",
+    "Lore/Characters/Pantheon/Gods/Magna.md",
+    "Lore/Characters/Pantheon/Gods/Lutrios.md",
+    "Lore/Characters/Pantheon/Gods/Lancast.md",
+    "Lore/Characters/Pantheon/Gods/Galatus.md",
     "Rules/Asphodia/Class Wheel.canvas",
     "Media/token_sheet_2.png",
     "Media/token_sheet_1.png",
-    "Caravan/Sani.md",
-    "Caravan/Maxill.md",
-    "Caravan/James.md",
-    "Caravan/Graphel.md",
-    "Caravan/Howl.md",
-    "Caravan/Francis.md",
-    "Caravan/Ekthes.md",
-    "Caravan/Caliburn.md",
-    "Caravan/Brant.md",
-    "Caravan/Retired/Alastor.md",
-    "Caravan/Retired/Araspeth.md",
-    "Caravan/Retired/Chiriani.md",
-    "Caravan/Retired/Clover.md",
-    "Caravan/Retired/Elyzian.md",
-    "Caravan/Retired/Fey.md",
     "Caravan/Inactive",
     "Asphodian Tales.tar.gz",
     "tZ3neJRBt9dNf1Xk.Asphodian Tales.tar.gz",

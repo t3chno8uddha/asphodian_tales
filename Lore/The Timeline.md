@@ -10,6 +10,7 @@ tags:
 - [[Megido]]'s army almost destroys [[Lanaganne]]. Galatean refugees usurp the city, turning it into a draconian monarchy.
 # c. 1373
 - Maxill Mandable's 30-year rule of [[Dvorakia]] begins.
+- Diszy [[Howl]] invents Dizcotec.
 # 1400
 - Theological and political tension between [[Wonderlay]] and [[Drakengard]] drives [[Cronika]], in a self-righteous fit, to attack her sister [[Draca]]. Draca defends herself and accidentally kills Cronika.
 - Cronika's spirit transfers into all who carry her blood. [[The Claimant]] comes to collect their lives. [[Raul]] and [[Rafael]], chronopaths, are beyond its reach; [[Graphel]] is spared by his mother's deal with the Claimant, and the part of it preventing his passing becomes a second Idolon within him - a reaper's visage he sees in intense sorrow.
