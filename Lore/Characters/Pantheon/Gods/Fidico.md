@@ -20,6 +20,6 @@ God of **faith** and **modesty**.
 
 Governs over **[[Wonderlay]]**, alongside [[Lancast]] and [[Cronika]].
 
-His most noteworthy artifact is the **Asphean Wood's Cross**, a Radiant crucifix which creates miracles, and dispels all sicknesses.
+His most noteworthy artifact is the **Solar Hexaradiate**, a Radiant pendant which creates miracles, dispels all sicknesses, and can reflect the sun's light tenfold.
 
 ![[Fidico.png]]

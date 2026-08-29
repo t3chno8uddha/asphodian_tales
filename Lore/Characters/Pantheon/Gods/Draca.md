@@ -23,7 +23,7 @@ Goddess of **motherhood**, **destruction** and the patron god of **Dragons**.
 
 Governs over **[[Drakengard]]** and **[[Dhidalah]]**.
 
-Her most noteworthy relic is the **Manderwool Cloak**, a celestial cape that bestows Infernal and Glacial powers to the wearer.
+Her most noteworthy relic is the **Manderwool Cloak**, a celestial cape that bestows Infernal and Glacial powers to the wearer. He or she who wears it, will be able to bend wills of dragons.
 
 >[!spoilers]
 > Draca's profound  shame in having killed her sister [[Cronika]] in 1400 led Drakengard into an age of  turmoil. She had since resigned herself to grief, in the solitude of her throne room.

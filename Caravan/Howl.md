@@ -4,11 +4,11 @@ Type: PC
 Heritage: "[[Aél]]"
 Birthplace: "[[Ehelden]]"
 Allegiance:
-  - "[[Abati Faria]]"
+  - Dizco, baby.
 Opposition:
 Family:
 Status: Alive
-First_Seen: 1413
+First_Seen: 1441
 tags:
   - active
   - caravan

@@ -20,6 +20,6 @@ God of **war** and **hunting**, and the patron god of **[[Undine]]**.
 
 Governs over **[[Adamail]]**, **[[Karacolia]]** and the ocean.
 
-His most noteworthy relic is the **Lance of Adamail**, a Thundergale lance that strikes true as lightning, which bends oceans to its whim.
+His most noteworthy relic is the **Abysspiercer**, a Thundergale lance that strikes true as lightning, which bends oceans to its whim. It is said that holding the lance allows the wielder to change their Heritage.
 
 ![[Adamaal.png]]

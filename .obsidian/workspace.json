@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Caravan/Howl.md",
+                "file": "Caravan/James.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Howl"
+              "title": "James"
+            }
+          },
+          {
+            "id": "0662b599bfc6d94b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore/Characters/Pantheon/Gods/Temeran.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Temeran"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5
+    "width": 297.5
   },
   "right": {
     "id": "4ab132d8ced6087b",
@@ -203,55 +218,55 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "74d84e4cb4b46154",
+  "active": "0662b599bfc6d94b",
   "lastOpenFiles": [
+    "Lore/Characters/Pantheon/Gods/Mateo.md",
+    "Lore/Characters/Pantheon/Gods/Temeran.md",
+    "Lore/Characters/Pantheon/Gods/Maluma.md",
+    "Lore/Characters/Pantheon/Gods/Magna.md",
+    "Lore/Characters/Pantheon/Gods/Lutrios.md",
+    "Lore/Characters/Pantheon/Gods/Lancast.md",
+    "Lore/Characters/Pantheon/Gods/Galatus.md",
+    "Lore/Characters/Pantheon/Gods/Fidico.md",
+    "Lore/Characters/Pantheon/Gods/Draca.md",
+    "Lore/Characters/Pantheon/Gods/Crucito.md",
+    "Lore/Characters/Pantheon/Gods/Cronika.md",
+    "Lore/Characters/Pantheon/Gods/Adamaal.md",
+    "Lore/Characters/Pantheon/Gods/Abara.md",
     "Caravan/James.md",
-    "Caravan/Epidemus.md",
-    "Caravan/Ekthes.md",
-    "Caravan/Caliburn.md",
-    "Caravan/Bulga.md",
-    "Caravan/Brant.md",
+    "Caravan/Maxill.md",
+    "Caravan/Sani.md",
+    "Caravan/Howl.md",
+    "Caravan/Hemos.md",
+    "Questlines/Ongoing/Divine Liberation.md",
+    "Questlines/Ongoing/Re-Memberance.md",
+    "Questlines/Resolved/Grafting of Holy Roots.md",
+    "Questlines/Resolved/Divine Bookkeeping.md",
+    "Questlines/Resolved/An Astral Audience.md",
+    "Questlines/Available/Carving Fate.md",
+    "Asphodian Tales.tar.gz",
+    "tZ3neJRBt9dNf1Xk.Asphodian Tales.tar.gz",
+    "Questlines/Available/Eheli Dizco.md",
+    "Questlines/Available/The Two Thrones.md",
+    "map.base",
+    "Media/map.png",
+    "Media/Unused/hand_gate.png",
+    "Questlines/Ongoing",
+    "Character Sheet.pdf",
+    "Questlines/Closed/Closed",
+    "Questlines/Closed/Open",
+    "Questlines/Resolved",
+    "Questlines/Open/Open",
+    "Questlines/Open/Closed",
     "Encyclopedia.WIP/Axe Armor.png",
     "Encyclopedia.WIP/Manipede.png",
-    "Lore/Questslines.md",
-    "Review.md",
-    "Questlines/Closed/An Astral Audience.md",
-    "Questlines/Available/The Inviolate Interpreter.md",
-    "Questlines/Available/Re-Memberance.md",
     "Media/Images/players/james.png",
-    "Lore/Locales/The Northern Petal/Snowshower Mountaintops/Wassonia.md",
-    "Quests/Available/Breaking Bread, Breaking Blood.md",
-    "Rules/Wilt.md",
-    "Session Notes/Season 2/Episode 9.md",
-    "Session Notes/Season 2/Episode 8.md",
     "Rules/Asphodia/Class Wheel.canvas",
     "Media/icon.png",
-    "Rules/Asphodia/Classes.md",
-    "Cleric.md",
-    "Rules/Asphodia/Classes/Magus.md",
-    "Rules/Asphodia/Classes/Commoner.md",
-    "Rules/Asphodia/Classes/Wurdulac.md",
-    "Rules/Asphodia/Archetypes.md",
-    "Rules/Asphodia/Archetypes/Arcanist.md",
-    "Rules/Asphodia/Classes/Knight.md",
-    "Rules/Asphodia/Classes/Cleric.md",
-    "Rules/Asphodia/Classes/Changeling.md",
-    "map.base",
     "Media/Images/players/howl.png",
     "Media/Images/players/Howl.png",
-    "Rules.tar.gz",
-    "5ixJuR9KfhWzjn7j.Rules.tar.gz",
-    "Asphodian Tales.tar.gz",
-    "KLImspWxidRFcGW4.Asphodian Tales.tar.gz",
     "Media/Images/sights/north/locales/map_ehelden.png",
-    "Character Sheet.pdf",
-    "KzxYknACJp5cGFm0.Asphodian Tales.tar.gz",
     "Media/Images/sights/west/characters/dizang.png",
-    "O30Vu4Ys5z3RnwBS.Asphodian Tales.tar.gz",
-    "Questlines/Stalled",
-    "Questlines/Closed",
-    "Media/Images/sights/the_ocean/lazalan_atoll/atoll.png",
-    "Media/Images/sights/the_ocean/lazalan_atoll/island_environment_by_2wenty_d4m6gfv-fullview.jpg",
     "_Lore/Ongoing Threads.canvas",
     "Gamedev/Godot/the_napoleons/bulletin draft.canvas"
   ]

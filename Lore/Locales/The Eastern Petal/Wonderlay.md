@@ -11,8 +11,10 @@ Opposition:
 Populace:
   - "[[Gail]]"
 Status: Standing
-First_Seen: 
-marker: [{ coordinates: "2220, 3759", colour: "#4a4a5c" }]
+First_Seen:
+marker:
+  - coordinates: 2220, 3759
+    colour: "#4a4a5c"
 tags:
   - region/eastern-petal
   - status/standing

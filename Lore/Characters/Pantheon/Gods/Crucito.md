@@ -21,6 +21,6 @@ God of **craftsmanship**, **solitude** and the patron god of **[[Aél]]**.
 
 Governs over **[[Ehelden]]** and **[[Infernait]]**.
 
-His most noteworthy relic is the **Hamaul**, a Centripetal hammer that unmakes all it touches, and rebuilds it anew.
+His most noteworthy relic is the **Vivalleus**, a Centripetal hammer that unmakes all it touches, and rebuilds it anew.
 
 ![[Crucito.png]]
