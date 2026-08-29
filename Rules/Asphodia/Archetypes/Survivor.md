@@ -6,6 +6,6 @@ tags:
   - rules/archetype
   - rules/asphodia
 ---
-> *Resisting a Physical or Social consequence with a critical success recovers all strain.*
+> *You may receive incoming Damage as Strain, instead.*
 - **Encompasses:** *Wurdulac, Changeling, Drifter and Hunter*.
 - **Strengths:** *Maneuver & Hunt*.

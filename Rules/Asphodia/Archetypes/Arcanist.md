@@ -6,6 +6,6 @@ tags:
   - rules/archetype
   - rules/asphodia
 ---
-> *Resisting a Mental or Spiritual consequence with critical success recovers all strain.*
+> You may receive incoming Strain as Damage, instead.*
 - **Encompasses:** *Cleric, Monk, Sage and Magus*.
 - **Strengths:** *Form & Alter*.
