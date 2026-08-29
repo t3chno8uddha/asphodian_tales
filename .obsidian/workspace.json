@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Questlines/Ongoing/In Face of Creation.md",
+                "file": "Questlines/Available/The Two Thrones.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "In Face of Creation"
+              "title": "The Two Thrones"
             }
           }
         ],
@@ -234,11 +234,13 @@
   },
   "active": "40119805d2c7dbdc",
   "lastOpenFiles": [
-    "Questlines/Ongoing/Divine Liberation.md",
     "Questlines/Available/Uncarved Fate.md",
     "Questlines/Available/The Two Thrones.md",
-    "Questlines/Available/A wonderful Birthright.md",
     "Questlines/Available/Dizcotec Eheli.md",
+    "Questlines/Available/A wonderful Birthright.md",
+    "Questlines/Ongoing/Breaking Bread, Breaking Blood.md",
+    "Questlines/Ongoing/Divine Liberation.md",
+    "Questlines/Ongoing/In Face of Creation.md",
     "Lore/The Timeline.md",
     "Caravan/Howl.md",
     "Questlines/Resolved/An Astral Audience.md",
@@ -246,11 +248,9 @@
     "Questlines/Resolved/Grafting of Holy Roots.md",
     "Questlines/Resolved/The Holy Grapevine.md",
     "Lore/Locales/The Eastern Petal/Wonderlay.md",
-    "Questlines/Ongoing/In Face of Creation.md",
     "Questlines/Ongoing/Re-Memberance.md",
     "Lore/Locales/The Eastern Petal/The Hillspine Empire/Lanaganne.md",
     "Lore/Characters/Pantheon/Deities/Megido.md",
-    "Questlines/Ongoing/Breaking Bread, Breaking Blood.md",
     "Questlines/Ongoing/The Inviolate Interpreter.md",
     "Rules/Asphodia/Archetypes/Arcanist.md",
     "Lore/Characters/Pantheon/Gods/Temeran.md",
