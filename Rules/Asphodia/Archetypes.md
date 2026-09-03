@@ -2,7 +2,6 @@
 quartz-properties: false
 tags:
   - rules
-  - rules/asphodia
 ---
 # Warrior
 ![[Warrior]]
@@ -10,7 +9,7 @@ tags:
 # Zealot
 ![[Zealot]]
 
-# ARcanist
+# Arcanist
 ![[Arcanist]]
 
 # Scholar

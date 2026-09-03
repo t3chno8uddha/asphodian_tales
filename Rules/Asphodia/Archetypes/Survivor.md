@@ -3,9 +3,7 @@ quartz-properties: false
 unlisted: true
 tags:
   - rules
-  - rules/archetype
-  - rules/asphodia
 ---
-> *You may receive incoming Damage as Strain, instead.*
+> *You may receive any incoming Soul♣ strain as Flesh♠ strain, instead.*
 - **Encompasses:** *Wurdulac, Changeling, Drifter and Hunter*.
 - **Strengths:** *Agile & Direct*.
