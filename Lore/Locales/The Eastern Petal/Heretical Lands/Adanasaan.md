@@ -12,8 +12,6 @@ marker:
     colour: "#6a675d"
 tags:
   - region/eastern-petal
-  - status/standing
-  - type/locale
 ---
 Adanasaan is an ancient mining facility, buried in the jungle that stands on the plateau, towering over [[Grove Groove Canyon]].
 

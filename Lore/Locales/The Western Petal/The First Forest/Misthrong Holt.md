@@ -15,8 +15,6 @@ marker:
 tags:
   - forest
   - region/western-petal
-  - status/standing
-  - type/locale
 ---
 A village north of [[Papillopolis]] - The First Forest, where [[Lutrios]]' children critters and other animals reside. One of the most spiritual places in the realm.
 ![[Misthrong_Holt.png]]

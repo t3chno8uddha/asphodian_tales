@@ -13,7 +13,5 @@ Status: Dead
 First_Seen:
 tags:
   - pantheon
-  - status/dead
-  - type/deity
 ---
 The first son of [[Galatus]] and [[Abara]].

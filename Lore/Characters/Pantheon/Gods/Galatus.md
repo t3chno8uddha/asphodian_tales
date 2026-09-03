@@ -15,8 +15,6 @@ First_Seen: 1413
 tags:
   - gods
   - pantheon
-  - status/sealed
-  - type/god
 ---
 God of **camaraderie**, **hope**, and the patron god of **[[Gail]]**.
 

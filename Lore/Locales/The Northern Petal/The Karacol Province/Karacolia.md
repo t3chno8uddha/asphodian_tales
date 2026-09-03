@@ -14,8 +14,6 @@ marker:
     colour: "#4b4136"
 tags:
   - region/northern-petal
-  - status/standing
-  - type/locale
 ---
 ![[Karacolia - K's Tavern.mp3]]
 A port kingdom that worships **Adamaal**. The Karacol Province does **not** practice capital punishment.

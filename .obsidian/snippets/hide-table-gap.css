@@ -1,0 +1,4 @@
+.cm-line:has(+ .cm-embed-block.cm-table-widget) br { 
+  display: none; 
+}
+

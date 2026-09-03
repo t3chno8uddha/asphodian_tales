@@ -16,8 +16,6 @@ marker:
 tags:
   - island
   - region/outlying
-  - status/standing
-  - type/locale
 ---
 A prison island that is one giant volcano. Staff buildings and a low-security block sit outside the cone; the dangerous prisoners are held on floors carved down the volcano's throat. The very bottom "floor" is a cluster of caged cells hung by heavy chains directly over the lava — solitary confinement.
 

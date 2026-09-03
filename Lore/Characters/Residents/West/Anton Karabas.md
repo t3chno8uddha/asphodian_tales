@@ -11,10 +11,7 @@ Family:
 Status: Alive
 First_Seen: 1413
 tags:
-  - heritage/vampyr
   - region/western-petal
-  - status/alive
-  - type/npc
 ---
 A [[Vampyr]] of [[Eethert Plains]], lover of [[Alfonso Eethert]]'s daughter. In 1413, [[Father Ludwig]] tried framing him for the mayor's murder.
 ![[Anton_Karabas.png]]

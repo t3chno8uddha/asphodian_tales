@@ -12,8 +12,6 @@ First_Seen: 1441
 marker: [{ coordinates: "5450, 2465", colour: "#73716e" }]
 tags:
   - region/northern-petal
-  - status/standing
-  - type/locale
 ---
 ![[Ehelden - Phendrana Drifts.mp3]]
 One of the most advanced and peaceful civilizations in the realm. Ehelden is well renowned for its cold temperatures and warm smiles.

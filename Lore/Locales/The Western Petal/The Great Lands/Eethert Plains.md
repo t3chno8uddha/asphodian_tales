@@ -15,8 +15,6 @@ marker:
     colour: "#45414a"
 tags:
   - region/western-petal
-  - status/standing
-  - type/locale
 ---
 A small settlement south of [[Mansfield]].
 In 1413, **[[Father Ludwig]]** ran a human smuggling operation under the river that cuts through the town. During a divination ritual, he murdered the mayor - **[[Alfonso Eethert]]** - and tried framing his daughter's [[Vampyr]] lover - **[[Anton Karabas]]**.

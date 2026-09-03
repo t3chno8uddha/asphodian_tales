@@ -13,8 +13,6 @@ marker:
     colour: "#585042"
 tags:
   - region/western-petal
-  - status/standing
-  - type/shrine
 ---
 A small shrine to [[Temeran]].
 In 1413, it held two items: the **New Moon Amulet** that lets the bearer travel through shadows, and a **Thundergale Fang**.

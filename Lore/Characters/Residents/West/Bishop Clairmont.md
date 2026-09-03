@@ -13,8 +13,6 @@ Status: Dead
 First_Seen: 1413
 tags:
   - region/western-petal
-  - status/dead
-  - type/npc
 ---
 Bishop of [[Asbarnia]]. In 1413, he colluded with [[Rafael]] and sold him the souls of the town's citizens in exchange for power and wealth, conducting the Bell-Bearer ritual through his painting collection.
 

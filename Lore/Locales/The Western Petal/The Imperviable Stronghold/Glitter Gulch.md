@@ -15,8 +15,6 @@ marker:
 tags:
   - forest
   - region/western-petal
-  - status/standing
-  - type/dungeon
 ---
 An enchanted swamp that bars entry to [[Adamail]]'s Imperviable Stronghold to outsiders. Those who live in the kingdom know their way around its wizardry, but those who don't, the swamp evaluates individually, much like [[Papillopolis]] does. Of course, the swamp has different values to which it ascribes merit, and an ecosystem far more inhospitable - one wrong step could lead to the gaping jaw of an Abyssal.
 

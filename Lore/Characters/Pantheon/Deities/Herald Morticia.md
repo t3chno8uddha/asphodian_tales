@@ -12,8 +12,6 @@ Status: Alive
 First_Seen:
 tags:
   - pantheon
-  - status/alive
-  - type/deity
 ---
 Child of [[The Claimant]]. The herald feeds on the vagrant Idolons it captures in the realm, and drags to its home for safe keeping. The souls are forever drained of their energy, and unable to leave.
 

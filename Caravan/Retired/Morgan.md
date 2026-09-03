@@ -11,10 +11,7 @@ Status: Alive
 First_Seen: 1413
 tags:
   - caravan
-  - heritage/gail
   - shelved
-  - status/alive
-  - type/pc
 ---
 A [[Lunatic]] with the Deity [[Amon]] trapped inside him, and (as of 1413, former) prisoner of [[Infernait]].
 ![[Morgan.png]]

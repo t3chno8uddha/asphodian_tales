@@ -15,8 +15,6 @@ First_Seen:
 marker: [{ coordinates: "1563, 1416", colour: "#4f443a" }]
 tags:
   - region/western-petal
-  - status/standing
-  - type/locale
 ---
 ![[Adamail - The Eastern Kingdom of Mikado.mp3]]
 One of [[Adamaal]]'s two kingdoms. A massive fortress, and home to [[Sigurd]].

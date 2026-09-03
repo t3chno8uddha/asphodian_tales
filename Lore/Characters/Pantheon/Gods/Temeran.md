@@ -14,8 +14,6 @@ First_Seen:
 tags:
   - gods
   - pantheon
-  - status/alive
-  - type/god
 ---
 God of **blood**, **night**, and the patron god of **[[Vampyr]]**.
 

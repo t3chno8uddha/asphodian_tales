@@ -17,9 +17,6 @@ tags:
   - active
   - caravan
   - godblood
-  - heritage/gail
-  - status/alive
-  - type/pc
 ---
 An outlaw from [[Galatea]], looking for the author of his books, [[Abati Faria]].
 

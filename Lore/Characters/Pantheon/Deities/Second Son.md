@@ -14,8 +14,6 @@ First_Seen:
 tags:
   - abyssal
   - pantheon
-  - status/alive
-  - type/deity
   - vampyr
   - wurdulac
 ---

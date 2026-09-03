@@ -13,8 +13,6 @@ marker:
     colour: "#45413f"
 tags:
   - region/northern-petal
-  - status/standing
-  - type/locale
 ---
 A purple-hued coastal region where **Magnus** washes ashore, with no memory of how he arrived.
 

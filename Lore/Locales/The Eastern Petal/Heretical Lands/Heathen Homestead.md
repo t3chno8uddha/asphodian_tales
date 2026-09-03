@@ -13,8 +13,6 @@ marker:
     colour: "#443e39"
 tags:
   - region/eastern-petal
-  - status/standing
-  - type/locale
 ---
 The heathen homestead is a place that bows no god.
 

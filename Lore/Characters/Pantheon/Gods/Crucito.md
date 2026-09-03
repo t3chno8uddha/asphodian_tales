@@ -14,8 +14,6 @@ First_Seen: 1413
 tags:
   - gods
   - pantheon
-  - status/alive
-  - type/god
 ---
 God of **craftsmanship**, **solitude** and the patron god of **[[Aél]]**.
 

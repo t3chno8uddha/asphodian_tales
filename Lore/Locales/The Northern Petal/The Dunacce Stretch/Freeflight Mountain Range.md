@@ -13,8 +13,6 @@ marker:
     colour: "#312d29"
 tags:
   - region/northern-petal
-  - status/standing
-  - type/locale
 ---
 A Dunaccan monastery west of the capital. It is said that the people living here are so detached from the world, they are free and able to soar through the wind.
 

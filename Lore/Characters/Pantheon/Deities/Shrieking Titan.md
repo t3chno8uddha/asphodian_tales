@@ -11,8 +11,6 @@ First_Seen:
 tags:
   - abyssal
   - pantheon
-  - status/alive
-  - type/deity
 ---
 An Abyssal deity, thought to have previously belonged to some orator.
 

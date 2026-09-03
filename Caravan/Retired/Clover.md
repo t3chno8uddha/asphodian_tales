@@ -12,10 +12,7 @@ Status: Undone
 First_Seen: 1413
 tags:
   - caravan
-  - heritage/construct
   - shelved
-  - status/undone
-  - type/pc
 ---
 A man-made assassin created to sell out to the highest bidder.
 

@@ -13,8 +13,6 @@ marker:
     colour: "#3f3e40"
 tags:
   - region/northern-petal
-  - status/standing
-  - type/dungeon
 ---
 Also known as the Moonlit Tower, or the Sea-Pierce Spire, it is God Crucito's forge and keep, where he spends most of his material days. It's located in the middle of a sea, north of Magnolia.
 

@@ -15,8 +15,6 @@ tags:
   - island
   - port
   - region/southern-petal
-  - status/undone
-  - type/locale
 ---
 An island empire founded by [[Cronika]], and home to [[Raul]] and [[Rafael]] Tannengards.
 Above it stands the **[[Sempiternal Observatory]]**.

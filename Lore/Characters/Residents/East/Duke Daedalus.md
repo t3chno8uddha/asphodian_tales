@@ -20,10 +20,7 @@ Status: Alive
 First_Seen: 1441
 tags:
   - godblood
-  - heritage/vampyr
   - region/eastern-petal
-  - status/alive
-  - type/npc
 ---
 Son of [[Draca]] and [[Temeran]], the ruler of The Duchy of [[Dhidalah]], the first [[Vampyr]], and the father of all Vampyr.
 

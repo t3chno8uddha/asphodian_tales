@@ -10,6 +10,4 @@ First_Seen:
 marker: [{ coordinates: "4952, 3405", colour: "#585c50" }]
 tags:
   - region/northern-petal
-  - status/standing
-  - type/locale
 ---

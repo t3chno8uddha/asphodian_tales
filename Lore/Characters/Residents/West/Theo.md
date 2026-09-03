@@ -14,9 +14,6 @@ Family:
 Status: Alive
 First_Seen: 1413
 tags:
-  - heritage/aél
   - region/western-petal
-  - status/alive
-  - type/npc
 ---
 A short [[Aél]] who travelled with the party in 1413, leaving before [[Asbarnia]].

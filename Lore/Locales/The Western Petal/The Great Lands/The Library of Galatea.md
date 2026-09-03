@@ -14,8 +14,6 @@ marker:
     colour: "#49475e"
 tags:
   - region/western-petal
-  - status/standing
-  - type/shrine
 ---
 A great spire north of [[Galatea]], and a library previously inhabited by a malevolent Wizard, survived by his lab rat, [[Leemward]].
 ![[Library_Galatea_Interior.png]]

@@ -14,8 +14,6 @@ First_Seen: 1413
 tags:
   - gods
   - pantheon
-  - status/sealed
-  - type/god
 ---
 Tree god of **flora** and **fauna**.
 

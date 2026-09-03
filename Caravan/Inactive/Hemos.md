@@ -17,9 +17,6 @@ tags:
   - active
   - caravan
   - godblood
-  - heritage/vampyr
-  - status/alive
-  - type/pc
 ---
 Next in line for the throne of [[Galatea]], and brother to [[Princess Melodia]].
 

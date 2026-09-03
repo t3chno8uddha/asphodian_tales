@@ -13,8 +13,6 @@ First_Seen:
 tags:
   - empyrean
   - pantheon
-  - status/alive
-  - type/deity
 ---
 [[The Claimant]]'s Empyrean.
 

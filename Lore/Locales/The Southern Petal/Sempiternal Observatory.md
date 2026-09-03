@@ -13,8 +13,6 @@ marker:
     colour: "#67656c"
 tags:
   - region/southern-petal
-  - status/standing
-  - type/shrine
 ---
 A place where one can view time throughout history, and its many branches.
 

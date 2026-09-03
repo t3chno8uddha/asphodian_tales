@@ -20,10 +20,7 @@ First_Seen: 1413
 tags:
   - chronopath
   - godblood
-  - heritage/gail
   - region/southern-petal
-  - status/alive
-  - type/npc
 ---
 A chronopath of the Holy Kronitian Empire - its prince, and heir to the throne, a direct descendant of [[Cronika]] and [[Galatus]]' daughter [[Diya]],
 

@@ -15,8 +15,6 @@ marker:
     colour: "#474248"
 tags:
   - region/eastern-petal
-  - status/standing
-  - type/locale
 ---
 A large, living castle that resides on the highest mountain of the Eastern Petal. It is where [[Duke Daedalus]] lives.
 ![[deldi.png]]

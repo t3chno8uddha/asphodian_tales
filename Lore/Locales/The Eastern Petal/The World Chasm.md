@@ -12,8 +12,6 @@ First_Seen:
 marker: [{ coordinates: "1737, 4368", colour: "#3c3a45" }]
 tags:
   - region/eastern-petal
-  - status/standing
-  - type/locale
 ---
 Another colossal whirlpool of unknown origins - no one who had ventured in has ever returned.
 

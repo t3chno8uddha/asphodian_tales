@@ -18,8 +18,6 @@ marker:
 tags:
   - port
   - region/western-petal
-  - status/standing
-  - type/locale
 ---
 A small port village south of [[Papillopolis]].
 

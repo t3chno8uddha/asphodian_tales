@@ -16,8 +16,6 @@ marker:
     colour: "#515546"
 tags:
   - region/western-petal
-  - status/standing
-  - type/locale
 ---
 An ancient temple, obscured by a jungle, located on the south of the [[Forsaken Wildlands]].
 

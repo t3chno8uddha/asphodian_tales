@@ -17,10 +17,7 @@ tags:
   - chronopath
   - edicts
   - godblood
-  - heritage/gail
   - region/southern-petal
-  - status/vague
-  - type/npc
 ---
 A chronopath of the Holy Kronitian Empire - and its prince, a direct descendant of [[Cronika]] and [[Galatus]]' daughter [[Diya]], and beyond Death's reach in 1400. Raul can harness [[Chronokinesis]]. 
 

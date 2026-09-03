@@ -16,8 +16,6 @@ marker:
 tags:
   - forest
   - region/western-petal
-  - status/destroyed
-  - type/locale
 ---
 ![[Outside_Papillopolis.png]]
 Home and grounds of the god Lutrios, as well as his children, and the place where all flora was born.

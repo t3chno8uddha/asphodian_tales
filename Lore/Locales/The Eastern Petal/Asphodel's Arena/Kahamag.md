@@ -12,8 +12,6 @@ marker:
     colour: "#73675f"
 tags:
   - region/eastern-petal
-  - status/standing
-  - type/locale
 ---
 A trading town near center of Asphodel's Arena. The smallest, but the wealthiest considering in relativity to the other regions in the Arena.
 

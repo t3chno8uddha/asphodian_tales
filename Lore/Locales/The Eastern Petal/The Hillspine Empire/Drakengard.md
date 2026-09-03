@@ -15,8 +15,6 @@ First_Seen:
 marker: [{ coordinates: "1653, 4908", colour: "#434241" }]
 tags:
   - region/eastern-petal
-  - status/standing
-  - type/locale
 ---
 The mountain range where **[[Draca]]** built her own home. Worships Draca. Home and a safe sanctuary for all dragons of the realm.
 

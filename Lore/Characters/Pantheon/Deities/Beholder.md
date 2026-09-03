@@ -12,8 +12,6 @@ First_Seen:
 tags:
   - oracle
   - pantheon
-  - status/alive
-  - type/deity
 ---
 The avatar of [[Asphea]]'s curiosity, and her eyes and ears over the realm.
 

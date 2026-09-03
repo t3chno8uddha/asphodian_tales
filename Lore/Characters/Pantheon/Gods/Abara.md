@@ -13,8 +13,6 @@ First_Seen:
 tags:
   - gods
   - pantheon
-  - status/alive
-  - type/god
 ---
 Goddess of **love**, **deceit**, and the patron god of **[[Fae]]**.
 

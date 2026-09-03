@@ -12,8 +12,6 @@ First_Seen:
 tags:
   - gods
   - pantheon
-  - status/alive
-  - type/god
 ---
 God of **discovery** and **redemption**.
 

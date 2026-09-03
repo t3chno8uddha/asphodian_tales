@@ -11,10 +11,7 @@ Status: Alive
 First_Seen: 1413
 tags:
   - caravan
-  - heritage/gail
   - shelved
-  - status/alive
-  - type/pc
 ---
 An Oracle from [[Ensiferia]], who left his clan to roam the world and battle strong opponents. Spiritually limited, but compensates with brute force.
 

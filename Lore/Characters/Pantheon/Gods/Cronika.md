@@ -16,8 +16,6 @@ First_Seen:
 tags:
   - gods
   - pantheon
-  - status/dead
-  - type/god
 ---
 Goddess of **discipline** and **time**.
 

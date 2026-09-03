@@ -15,8 +15,6 @@ marker:
     colour: "#787674"
 tags:
   - region/northern-petal
-  - status/standing
-  - type/locale
 ---
 A kingdom built under the mountains of [[Ehelden]], most well renowned for its ancient people and excellent craftsmen.
 ![[basalaat.png]]

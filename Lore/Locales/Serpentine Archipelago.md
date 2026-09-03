@@ -14,8 +14,6 @@ marker:
     colour: "#383837"
 tags:
   - region/outlying
-  - status/standing
-  - type/locale
 ---
 A chain of sunken islands inhabited by The [[Herald Morticia]]. It exists in The Sempiternal Plane, fleeting in and out whenever the Herald has to hunt.
 

@@ -11,8 +11,6 @@ First_Seen:
 marker: [{ coordinates: "2646, 3366", colour: "#4c4447" }]
 tags:
   - region/eastern-petal
-  - status/standing
-  - type/locale
 ---
 The largest empire in the [[Heathen Homestead]].
 

@@ -13,8 +13,6 @@ First_Seen: 1441
 marker: [{ coordinates: "5030, 2450", colour: "#54504d" }]
 tags:
   - region/northern-petal
-  - status/standing
-  - type/locale
 ---
 A small settlement south of [[Ehelden]], with a large monastery and a mixed population of [[Aél]]. 
 [[Father Gabriel]], a [[Vampyr]], in 1438, peacefully invaded the monastery, to build a secret society of pacifist Vampyr like himself, who refuse to drink blood.

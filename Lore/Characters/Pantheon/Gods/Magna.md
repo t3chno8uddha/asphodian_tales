@@ -13,8 +13,6 @@ First_Seen:
 tags:
   - gods
   - pantheon
-  - status/alive
-  - type/god
 ---
 Goddess of **magic** and **entertainment**.
 

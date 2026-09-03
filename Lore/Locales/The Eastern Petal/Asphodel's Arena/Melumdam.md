@@ -13,8 +13,6 @@ marker:
     colour: "#5e5450"
 tags:
   - region/eastern-petal
-  - status/standing
-  - type/locale
 ---
 The largest of the Arena's settlements - a [[Lazi]] port kingdom that lives in the literal shadows of the [[Drakengard]] mountains.
 

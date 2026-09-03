@@ -12,10 +12,7 @@ Status: Alive
 First_Seen: 1413
 tags:
   - caravan
-  - heritage/vampyr
   - shelved
-  - status/alive
-  - type/pc
 ---
 A vampire lady.
 ![[Lillianele.png]]

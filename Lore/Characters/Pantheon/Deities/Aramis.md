@@ -16,8 +16,6 @@ tags:
   - dragon
   - empyrean
   - pantheon
-  - status/alive
-  - type/deity
 ---
 A colossal dragon hovering over [[Kronitia]].
 

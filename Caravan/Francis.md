@@ -15,9 +15,6 @@ First_Seen: 1413
 tags:
   - active
   - caravan
-  - heritage/gail
-  - status/alive
-  - type/pc
 ---
 An Inquisitor from [[Wonderlay]], who fled his kingdom in 1413 after learning of its corruption. The son of [[King Robert IV]] and the legitimate heir to the Wonderlain throne.
 

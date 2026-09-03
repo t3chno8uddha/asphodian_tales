@@ -13,8 +13,6 @@ marker: [{ coordinates: "2415, 1128", colour: "#514e4b" }]
 tags:
   - forest
   - region/western-petal
-  - status/standing
-  - type/locale
 ---
 A godless jungle on the west side of the Western Petal. Home to [[Komadd]] and [[Kabor]].
 

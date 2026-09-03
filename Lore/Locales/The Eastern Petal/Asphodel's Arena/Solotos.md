@@ -12,8 +12,6 @@ marker:
     colour: "#4b3e36"
 tags:
   - region/eastern-petal
-  - status/standing
-  - type/locale
 ---
 The middle child of the Arena - a scorching port town at the north end.
 

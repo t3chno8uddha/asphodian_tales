@@ -16,8 +16,6 @@ First_Seen:
 tags:
   - gods
   - pantheon
-  - status/alive
-  - type/god
 ---
 Goddess of **motherhood**, **destruction** and the patron god of **Dragons**.
 

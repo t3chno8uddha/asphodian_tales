@@ -12,10 +12,7 @@ Status: Alive
 First_Seen: 1413
 tags:
   - caravan
-  - heritage/fae
   - shelved
-  - status/alive
-  - type/pc
 ---
 Born in [[Papillopolis]], and raised by a grandmother whose grave lies near [[Rubimel]].
 

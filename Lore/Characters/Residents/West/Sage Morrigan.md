@@ -11,8 +11,6 @@ Status: Vague
 First_Seen: 1413
 tags:
   - region/western-petal
-  - status/vague
-  - type/npc
 ---
 A sage of [[Rubimel]], who welcomed visitors and ran the town's campsite.
 ![[Sage_Morrigan.png]]

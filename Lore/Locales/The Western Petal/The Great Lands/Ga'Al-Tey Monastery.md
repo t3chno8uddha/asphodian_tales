@@ -15,8 +15,6 @@ marker:
     colour: "#645e68"
 tags:
   - region/western-petal
-  - status/standing
-  - type/locale
 ---
 A remote stone monastery built north of The Great Lands of [[Galatea]], overseeing the Tomb of [[Galatus]].
 In 1413, the god's sleeping body was infected with [[Drakenblight]], by [[Duke Daedalus]].

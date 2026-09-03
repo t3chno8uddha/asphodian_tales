@@ -12,9 +12,6 @@ Status: Alive
 First_Seen:
 tags:
   - godblood
-  - heritage/gail
-  - status/alive
-  - type/npc
 ---
 A writer - the author of [[Graphel]]'s childhood books, and the teacher of [[Ekthes]], who searches for him.
 
