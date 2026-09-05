@@ -53,7 +53,7 @@ tags:
 - Brant splits from the rest of the caravan, seeking answers to Raphael's onslaught. Instead, he found [[Dizang]], [[Caliburn]], [[Sani]] and [[Via]]. Together with [[James]], they subdued the [[Shrieking Titan]] and received some truths from it.
 - The Caravan makes their way to Ehelden. Rafael communes with them, trading the Amulet he left at their battlefield, for the torn half of theGodspeak tome and Maxill's autonomy.
 - After the Holy Root prophecy was fulfilled, the caravan meets [[Abati Faria]]. He explains the truth to Graphel and others.
-- The Caravan, alongside board the S.S C'Men with [[C'mus]] and [[Dalia & Ina]], and their ship crashes directly into the [[Serpentine Archipelago]].
+- The Caravan, alongside board the S.S C'Men with [[C'mus]] and [[Dalia & Ina]], and their ship crashes directly into the [[Phantom Saltwaters]].
 
 # The undone futures, **1441**
 - First timeline: the war Graphel witnessed - him and his party members dying as deities tower over them. Graphel musters his energy and returns through time.
