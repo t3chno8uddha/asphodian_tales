@@ -9,7 +9,7 @@ Allegiance:
 Opposition:
   - "[[Second Son]]"
 Family:
-Status: Vague
+Status: Alive
 First_Seen: 1413
 ---
 A [[Mansfield]]-born guru and sage from [[Rubimel]], able to guide visitors from the swamp town into [[Papillopolis]] - The First Forest.
@@ -24,5 +24,8 @@ In that sense, he is a walking prison with his inmates being trapped into small 
 >Witnessing the fire of Papillopolis in 1413, and hearing the truth of the [[Second Son]]'s designs from the [[Shrieking Titan]], he had since dedicated himself to a greater purpose - of Abyss Smithing all of mankind and destroying the conduit, thus directly sending every Idolon into the Sempiternal Plane, where they can exist free of worldy dangers.
 >
 >The very intent of this had made him the direct enemy of all twelve gods.
+>
+>Responsible for the S.S C'Men crashing in 1441.
+
 
 ![[Dizang.png]]

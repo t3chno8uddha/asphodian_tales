@@ -10,7 +10,7 @@ Allegiance:
 Opposition:
 Family:
 Status: Alive
-First_Seen:
+First_Seen: 1441
 ---
 A travelling merchant.
 

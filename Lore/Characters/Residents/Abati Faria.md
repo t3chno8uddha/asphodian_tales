@@ -9,7 +9,7 @@ Opposition:
 Family:
   - "[[Diya]]"
 Status: Alive
-First_Seen:
+First_Seen: 1441
 tags:
   - godblood
 ---

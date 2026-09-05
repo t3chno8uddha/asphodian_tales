@@ -19,6 +19,7 @@ marker: [{ coordinates: "4089, 2723", colour: "#654c58" }]
 tags:
   - region/northern-petal
 ---
+![[Magnolia - Pleajeune.mp3]]
 The only realm in Asphodia directly presided over by a god and not a government entity. Magnolia is hailed as the grand capital of magic in Asphodia. It has no single definitive law enforcement. Instead, [[Magna]] likes to simply observe the humans living in her kingdom. The Kingdom is built atop an enormous castle-like structure. 
 
 There's a magical force that *propels* vertically from the floors and ceilings of the castle, that prevent magic being used to harm or kill another person - however regular means aren't prevented. This is to preserve the sanctity of magic and order, and not out of concern for human life.
